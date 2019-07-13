@@ -1,0 +1,6132 @@
+MDMP
+#]%
+GenuineIntel
+Pacific Standard Time
+Pacific Daylight Time
+15063.0.x86fre.rs2_release.170317-1834
+dbgcore.i386,10.0.15063.0
+nebt
+ZJ:
+szhF
+kqw
+nI;e
+Ho&
+C]o
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe
+C:\Windows\System32\ntdll.dll
+C:\Windows\System32\kernel32.dll
+C:\Windows\System32\KERNELBASE.dll
+C:\Windows\System32\apphelp.dll
+C:\Windows\System32\advapi32.dll
+C:\Windows\System32\msvcrt.dll
+C:\Windows\System32\sechost.dll
+C:\Windows\System32\rpcrt4.dll
+C:\Windows\System32\sspicli.dll
+C:\Windows\System32\CRYPTBASE.dll
+C:\Windows\System32\bcryptPrimitives.dll
+C:\Windows\System32\user32.dll
+C:\Windows\System32\win32u.dll
+C:\Windows\System32\gdi32.dll
+C:\Windows\System32\gdi32full.dll
+C:\Windows\System32\msvcp_win.dll
+C:\Windows\System32\ucrtbase.dll
+C:\Windows\System32\imm32.dll
+C:\Windows\System32\rasapi32.dll
+C:\Windows\System32\combase.dll
+C:\Windows\System32\rasman.dll
+C:\Windows\System32\rtutils.dll
+(Xs
+(Xs
+5vx
+(Xs
+(Xs
+(Xs
+(Xs
+(Xs
+(Xs
+RSDS
+Bkp
+wntdll.pdb
+RSDS!
+U:9
+wkernel32.pdb
+RSDS
+wkernelbase.pdb
+RSDS;Sh
+apphelp.pdb
+RSDS:=
+advapi32.pdb
+RSDSW
+msvcrt.pdb
+RSDSXy
+sechost.pdb
+RSDS{f
+/:It4?
+wrpcrt4.pdb
+RSDS*Wme
+wsspicli.pdb
+RSDS
+cryptbase.pdb
+RSDS
+ARm
+bcryptprimitives.pdb
+RSDS
+wuser32.pdb
+RSDSL"
+wwin32u.pdb
+RSDS
+wgdi32.pdb
+RSDS?O
+wgdi32full.pdb
+RSDS''
+Nxp|
+msvcp_win.pdb
+RSDS`|f
+ucrtbase.pdb
+RSDS:
+wimm32.pdb
+RSDS}
+4(o
+rasapi32.pdb
+RSDS
+combase.pdb
+RSDS
+WKbQ
+rasman.pdb
+RSDS
+KkC{p
+rtutils.pdb
+*** C:\Users\Dummy\Desktop\sysinterals\Procdump\procdump.exe -mp -o 268
+*** Manual dump
+@"v
+ic<
+I\>
+Il>
+`Gv
+uL?
+uM?
+uN?
+u.C
+u>C
+P)t
+p)t
+pik
+ -t
+]/D
+]/E
+`lu
+a0E
+0uk
+IXF
+#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
+HubLenin
+HydrantsLakeside
+GrimeOcean
+LightensLynx
+LuckyMulticultural
+LysineGenetic
+OverlandFounts
+MacroscopicMagnetisation
+MotorsNeonate
+FoundationsMountains
+HandmaidenFillip
+KindleLather
+InstitutedHeighten
+HolidaysMultiprocessors
+LocativeInterlocks
+InnermostMicrophones
+OffsetJacket
+InterrogatesFind
+MadridGantries
+GravitatedLice
+FivesMeld
+LibeledHangar
+LeaguesFinality
+IntersectionsOvereat
+HastedGreasing
+LiquidiserForearms
+LatitudesFocal
+OnsetGanger
+HanoverGreasiest
+HeadiestImpedance
+KillersHobbling
+MaligningHypnotise
+HookingMagnetron
+LoiterersGovernesses
+FunctionariesIslamic
+MonographicHistamine
+FilletModernisation
+InjectableLogistics
+NovelsLate
+HarriersMasseuse
+LevitationIncompetence
+OutliersNematode
+LapsedMachinery
+OptingIntentions
+FireworksLeaden
+OverdraftsInductors
+LiquidiserNews
+FinialHandlers
+LynxNickel
+KisserHorn
+FootagesFrisking
+HosesFractals
+JelliesMenial
+FunkedKindled
+HecklingOutrank
+FigleafFilings
+GunboatLaps
+GearstickLiberal
+FormulateGlistening
+InksNeurosurgeons
+ImperialisticJellied
+LiquidationsOlfactory
+FoxtrotsGoring
+OleInitialisation
+GenresGrimm
+FreesiasGleams
+GeometricOutmost
+FreshersMuses
+MasonicInspects
+FinishingInstigators
+FrostbittenFete
+FirelightMyself
+MegalomaniaFencings
+FlattenMatriarchies
+ForkedLocally
+IdentificationOnions
+InnerOracle
+ImplementersGrinner
+IncomeGlenn
+FretLecturers
+LocusIncorrect
+JetInventions
+InternMetropolises
+IntertwinedGenesis
+OptimistMarginality
+MaimsNoses
+FreelancesIgnored
+MentholFinetunes
+HatsInfernal
+JestedHomecomings
+IrregularGrins
+MaturityInterviewers
+FeralFrameup
+HumanismIngress
+LookingOpts
+MetabolicHectic
+JesterManufacturer
+LegendLegal
+JamesHeroines
+ImpalingHalting
+JunkFining
+MelodicallyHeeled
+LysineLined
+InvarianceLane
+InterferometersFlowering
+OrnamentsLivelier
+HorticulturistGrassed
+NormalityLuxor
+FollowsNutriment
+GriffinHaircare
+InterrelationshipsMeadows
+MangroveImprovisatory
+FormalisationLactation
+LibellerMonitor
+MomentousMentioning
+KindleMustered
+MonumentallyIsometry
+MyLectors
+LiberalisedFilter
+MistranslatesListless
+OddityInconstancy
+HeadacheLowland
+MessagingInterrogations
+HunkFlannel
+FilersHears
+FragmentationFormalised
+NumberMnemonics
+LiftsMicrometers
+OpineInsulin
+FrightenIncest
+LeagueMires
+MagnetisationInterfacing
+OmelettesOval
+GodsendFirmest
+IfsFuse
+LiensHandler
+FifesMorns
+GoofingGlob
+OrchestrationImperialist
+HecklersInexpert
+OdesMinimise
+GrocerOldish
+GearboxesInductors
+LimiterFunctionary
+MovableOrnamentation
+KitLink
+InitiatesOfficiated
+JacksLactation
+NicenessMaturation
+LuckyInertia
+LentLetter
+MorningLegendary
+InitiatingInternationals
+MetaboliseMuscadel
+IslamicMetrically
+LonelinessFold
+KinkMarionette
+FiremanOusts
+GigabytesOrchards
+FlingsMongrels
+LiterallyHoop
+IntenseFigurehead
+MisrememberNectar
+NowInheritors
+HousekeeperNines
+MotherhoodFilm
+HistoricistNavigators
+NeedierHeretics
+IntuitivenessMythic
+FortFoundered
+KnotMix
+OoliticLocale
+GenesFuller
+HosesNails
+IndelibleImpressions
+FireproofMover
+OffersOstrich
+InsidesMandolins
+ForgeriesGreeds
+FlowerMeshed
+MixedKillings
+GreetingIrreverent
+KerbIdle
+LancedOrchids
+MalformationsLosers
+ImpalaOpines
+MonarchicHijacked
+HybridInexpressible
+LeachedLittleness
+FrailestMonotone
+HardMatt
+NectarinesFreighter
+IndoctrinatesHarshen
+FlueGrassroots
+LateralLathered
+InterdisciplinaryInvested
+ObelisksGlossing
+InsurgentFireguard
+NicksLoiter
+InvariantHumbled
+ListeriaIonisation
+NormalsMarooned
+FertilisedGlen
+OutclassedGreengages
+MarkupsLame
+MicrogramsHousebuilders
+IonianGangling
+LordsNudes
+GreyFisted
+MopedFootplate
+FilibusterIntegrity
+MartingalesFerns
+IdlenessMatrilineal
+FranchisedIntransigence
+ObfuscatesHalons
+HarvestingObservational
+OvercomeIncomparable
+ImprovisatoryFrom
+GenieForaging
+HeretoIndex
+InquirersIneradicable
+InseparableNightingale
+InsertionImplosion
+IntelligenceGerminal
+HeatingMultimedia
+HandingNationalities
+MoraineForgetmenots
+MustersModernistic
+InstillsImprovements
+IntermentFives
+ImprisonmentsInstance
+GassiestHarshens
+GreedsInterned
+GenealogistInfinitude
+InterrogatedOmens
+NormalisedFractures
+HillierOres
+JogIdiomatically
+MultichannelNationalised
+GenerationsGuided
+MusicalityInconsiderately
+ImprovementsInfiltration
+FollowersGrommets
+IroniesLogicians
+InadvisabilityHeartwarming
+InklingOrthodox
+FornicatorsModeration
+GuitarsMetres
+ImportuneHutches
+GranularFleeting
+GroupsInsectivores
+InstigatedIndictments
+LensesFug
+GovernorshipsLoosed
+OctavesLegend
+IngrateLimo
+FlingsIneffectually
+MontagesOscillators
+IdealistsInjecting
+ImminentModelling
+IonianLamas
+HarpingIntegrates
+ManifestationsOppose
+ModularisedMistypings
+MetatarsalHomesteads
+LicencesLiver
+GluedOppressive
+MorosenessNegate
+HospitalisedLogically
+FirebombsField
+MinimiserFording
+MolestedLinearity
+MagnitudesForetold
+OptimiserFlashed
+NovelleInsisting
+NicksIronical
+MultiplexedIceberg
+LongsGlittery
+FourLeafing
+OrationsHuff
+HystericsMissals
+GrassesForeshadows
+MockFruiting
+MarineHydrocarbon
+HelotsMicroprogram
+LatestFullpage
+GreasierObedience
+MultiprocessorLyrically
+ImportunateFinality
+FreedGuardhouse
+MeretriciousImpermanence
+LowishLifeline
+GruntsGlean
+MorallyHabitable
+ForecasterMessy
+HouseboundImprisoned
+IntuitedFormulations
+LogicalityMulticoloured
+InfusionLady
+MispositionedHydrated
+MonadicLigand
+HissingMover
+FightersOff
+IllinformedLunatics
+HangmenObligated
+GodsonMicrocosm
+OunceFragrant
+ImmodestLard
+MassagesFractures
+OstracismMandarins
+InstigatingIsms
+OscilloscopesHotter
+MendingLifelike
+InterfereMillenarianism
+FilletsNotch
+MistinessGifting
+InvestsOnshore
+OverflowedMachinery
+OutreachLunches
+LagsOutrank
+IdeographicHankered
+OrganismImpales
+GassesOutran
+LumbersHatracks
+MaimedMargins
+InformallyNasally
+OutlayIntercountry
+IngatheredKnighted
+LiableFolders
+MagnetosphereHyperventilated
+KittingMelanoma
+GreyedMutates
+OnionIntertwining
+JettisonedImponderables
+MolarInward
+OutstepMint
+GripJoinery
+MultiplierMales
+MopOptimisation
+KickerNematodes
+IdealisedOolitic
+HumanoidGasses
+IneffectualnessIntones
+InterplanetaryMedallion
+MortgagesFives
+LitchiIgnite
+MazeLent
+KnightGames
+HissedImagine
+MumHalts
+LothMutineer
+LeverMobilises
+NeurobiologyHardened
+HumpedIncompetence
+LeanedLanded
+HysteresisLapp
+LovestruckMantles
+FloodsIgnoring
+HullMisshapen
+MetricInconsiderable
+MachinedHistorians
+InfinitiveHissed
+OrchestrationsOracular
+IncipientIrrational
+OrphanLeviathan
+HistologicalOption
+HousebuildingIndirectness
+InviteInsubstantial
+MisruleLures
+JunkerGreek
+LoanFossilising
+NationalisedMelanin
+NeurosurgeonsHesitating
+HoeForefront
+MiscalculatedGangs
+HijackingsFlashier
+MarquetryFraming
+GamesMissteps
+NonparticipationFreezer
+HatedImmunisations
+MathematicsMenace
+MistsInefficient
+OmniscienceLarger
+ImputingJungle
+HotplatesNeoplasms
+MonasticHerrings
+FootstepGetaway
+LinimentHolistic
+LainOperable
+FigureheadGlider
+MatriculatedNasty
+MistersGenuine
+GrocersImmigrations
+MeltedFundamentalism
+InterviewingNeutrino
+FreebieImpediments
+InhaleInstated
+HushesForegrounding
+GustingFrayed
+OralNovices
+MbabaneOctaves
+IsomersInclines
+NeutralistInstigate
+LegendsFug
+FordedLoiter
+MatrimonyNeon
+OutclassedHumanists
+HolinessMotet
+FixingMortices
+LatrinesIndigenous
+NayInnovating
+OmnipresentMindlessness
+NewsletterInterrogations
+MandelaIntersect
+FormulatorMangle
+FlushedMitred
+FolliclesLaden
+NerdsHat
+IncontinentLonesomeness
+LinnetFestival
+FlukeMultiples
+FounderedInterviewer
+HerringsNebular
+HorseshoesInched
+GrassrootsGripe
+FermentingOne
+InitiatorsNaturalisation
+HeardFullish
+MinisteringNdebele
+ItinerantMotivating
+MarchingIndeterminable
+HarkensInvoiced
+ForegroundsInadmissible
+InsurrectionsIncest
+LeftNice
+GenerositiesInsisting
+HastedFornicator
+IndoleHertz
+LootingLakeside
+OrienteeringJoysticks
+IncompetenceLithologies
+FleesHale
+MisdirectedJustification
+ForebodingGreened
+HistologyOre
+InconveniencedLivewire
+LatenciesHasp
+MesonForeshadowed
+OfficialnessLeadership
+ImpaleOrca
+MatricesMaths
+IndeterminateJames
+HierarchMastermind
+NegativeFop
+HistologyLeprosy
+MixFiner
+GarrisonsNematode
+GearOriginating
+FittingsMarmalade
+HydrangeaLet
+HeartacheHideout
+InverterForebodings
+GalHook
+MementoOur
+InventMimes
+IntrudedOratory
+LilyOverflowing
+NodesGrannies
+IntegratorLocational
+OverlapsOutpointing
+ImplementerHyphenations
+IntimatesInterplays
+GermicidesLet
+GeometricalMisdiagnosis
+OverlandGrocer
+MigratedMarines
+KestrelsLigand
+MonopolisationMaths
+NumeralIdlers
+MicrobiologistImparting
+HesitatesHoliness
+LocationHassle
+ObsessLamb
+GentlemenIn
+HeeledIonise
+MachinationLonged
+InflatedOrphaned
+HouseboatGrandma
+GenitiveOptical
+MentorGreed
+ObedienceIncapacitating
+LorriesLarders
+IlluminatingImprisonment
+MoralisingMath
+InsertingNose
+JabInterviewed
+MeanieFostered
+LiberalityIntestate
+LayoutMutinous
+OptimisersMaseru
+LocalsMantled
+InefficienciesFloods
+LinimentJewellers
+MansizedOperative
+HuhForeigners
+LecherHuff
+ImpositionsMicroscopes
+IceboxHateful
+InsertsFoxiness
+IngrownObjector
+KiwiImps
+JapFootpads
+LinimentsItalians
+MilanFlanged
+HerbageImpacts
+InductorHalogenated
+FireproofIntroverted
+InventionFitness
+HarvesterMeanings
+InsertingFurnace
+MynaNimble
+FinalisingInspectorate
+OpinionListener
+LedgesHappening
+LovelessNumbed
+MediationLogistically
+HabitabilityGalaxy
+MusingFording
+LookedFluency
+JobsImmobile
+IridiumNaps
+InduceInterpretational
+GamesmenFend
+InstillsInterrogators
+MulesIcebox
+MechanismsHulls
+MercenariesInfinitesimals
+MinnowsLand
+GenialityNewspaper
+IntentsOrchestrating
+HairstylingGainer
+GrousesInvading
+FluesMysteries
+GnatsGallows
+ L0
+xDA
+g27kkY9019n7t01
+a6d6L578s522BH7O2
+!v`
+!vx
+!v
+!v
+!v(
+!v(
+!vX5
+v`!
+!v
+!v`
+!v@
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+!v
+!v
+!v(
+!v(
+!v0
+!v0
+!v8
+!v8
+!v@
+!v@
+!vH
+!vH
+!vP
+!vP
+!vX
+!vX
+!v`
+!v`
+!vh
+!vh
+!vp
+!vp
+!vx
+!vx
+v`O
+.?AVtype_info@@
+.?AVResultException@wil@@
+.?AVexception@std@@
+2j/
+SOFTWARE\Microsoft\Ole\Extensions
+winRTDesktopBrokerCLSID
+K H
+H H
+H H
+!v
+3 v`3 v
+!v$
+v #
+vX#
+vX$
+vD$
+vl$
+v,$
+v }
+9>]
+J>]
+en-US
+United States
+3;0
+0123456789
+3;0
+h:mm:ss tt
+h:mm tt
+M/d/yyyy
+MMMM yyyy
+dddd, MMMM d, yyyy
+! #!%"'#)$+%-&/'1(3)5*7+9,;-=.?/A0E1I2M3Q4U5Y6]7a8e9i:m;q<u=y>}?
+h`F5@@
+,$|
+0SVWN
+t0+U
+_^[
+`SVW
+hvm
+8!"
+h`F5@!
+h`F5@
+h}<cR
+OpenSCManagerA
+h`F5@
+Ihvm
+h}<cR
+EnumServicesStatusExA
+h`F5@
+Ihvm
+h}<cR
+GlobalAlloc
+h`F5@
+h}<cR
+EnumServicesStatusExA
+h`F5@
+Ihvm
+h}<cR
+GlobalFree
+h`F5@
+h}<cR
+#_^[
+_^[
+EnumSystemGeoID
+h`F5@
+h}<cR
+EnumDateFormatsA
+h`F5@
+h}<cR
+Ps1
+xSVW
+SOFTWARE\KasperskyLab
+83)
+h`F5@!
+_^[
+H<k
+xV4
+_^[
+By2!
+/PA
+\3H
+|G5
+_^[
+USER32.DLL
+h;R
+7PB
+xA)
+hEL
+Hu&+E
+_^[
+4PFI
+u!#E
+8P_^[
+;_^[
+kPu,
+_^[
+OtT=
+OtM=
+OtF=
+Ot?=
+Ot8=
+Ot1=
+Ot*=
+Ot#=
+Ou!
+_^[
+Ou/
+_^[
+fK!E
+N_^[
+0SVW
+_^[
+ K1
+`F5@
+_^[
+`SVW)
+H !M
+5`F5@C
+uS)
+"_^[
+_^[
+ SVW
+5+E
+_^[
+4SVW
+FHtx1
+a_Hth
+gHtZi
+NHtH
+-Ht8A
+Ht'
+_^[
+(SVW
+P3U
+h`F5@
+h}<cR
+h`F5@
+h}<cR
+]XI
+t/3]
+t%!
+_^[
+HSVWi
+9MZu
+@P#u
+h`F5@
+h}<cR
+,N`
+(OY
+_^[
+,SVW
+h`F5@
+h}<cR
+H>+}
+s$@
+h`F5@
+h}<cR
+_^[
+SOFTWARE\ESET
+83)
+h`F5@!
+P#u
+SOFTWARE\AVAST Software
+Fh3
+ADVAPI32.DLL
+LoadLibraryA
+h`F5@
+h}<cR
+h`F5@
+Ihvm
+h}<cR
+ADVAPI32.DLL
+8!"
+h`F5@!
+LoadLibraryA
+h`F5@
+h}<cR
+h`F5@
+Ihvm
+h}<cR
+0SVW
+|A6
+Zc%
+ nN
+<[l
+hgs
+i)~t
+g3a
+NVI
+h`F5@Bh
+,$H
+YB)
+_^[
+`SVW
+r:C
+_^[
+DSVW
+_^[
+u8I
+%L9F
+tjk
+t.f
+t(i
+Q_^[
+[M3
+wd)
+h`F5@
+h}<cR
+Al)
+h`F5@
+h}<cR
+h`F5@
+h}<cR
+6iS
+h`F5@
+h}<cR
+GetTickCount
+h`F5@
+h}<cR
+Sleep
+h`F5@
+h}<cR
+h`F5@
+h}<cR
+YB)
+F=0u
+HBH
+N5%
+8MZu
+@<B
+@PG
+~Q1
+j@J
+h`F5@
+h}<cR
+h`F5@
+h}<cR
+G=B
+h`F5@
+h}<cR
+h`F5@
+Ih%
+h}<cR
+h`F5@
+h}<cR
+b1>
+h7R
+h`F5@
+Ih%
+h}<cR
+h`F5@
+h}<cR
+h`F5@
+h}<cR
+BKP
+o=P
+h'/
+h`F5@
+h}<cR
+BKP
+h'/
+h`F5@
+h}<cR
+BKP
+h`F5@
+h}<cR
+BKP
+rq{
+n|@%
+-G%y
+r<s
+)`)`*`*`E@E@+`+`
+'?v
+{3v
+ l3v
+(?v(
+,vX
+,v@
+?v@
+,v(
+,v\w,v
+xy}
+~,v0g5v
+0~,v
+vlg
+(/J
+SAD
+JJn8
+},v
+]3v
+X},v
+!sg
+,},v
+|,v\w,v
+|,v
+z,v
+(/J
+SAD
+JJn8
+f+E
+o||,v
+ |,v
+vlg
+zzG
+{,v
+{,v
+`{,v
+{,v\w,v
+z,v0
+z,v
+(/J
+SAD
+JJn8
+f+E
+tz,v
+{,v
+vlg
+R2]
+Lz,v@
+{,v
+R7M
+z,vpy,v\w,v
+8y,v
+xx,v
+4do
+VDx,v`|3v
+@v,v
+x,v
+w,v\w,v
+(w,v
+v,v
+v,v
+@v,v
+,vx
+,v\w,v
+fZ@U8
+vlg
+`Z~J[
+(/J
+SAD
+JJn8
+f+E
+,v`
+,v\w,v
+,v
+vlg
+(/J
+SAD
+JJn8
+G+J
+P*B
+,v@::v
+&6vp&6v
+[mrm_res_map__]
+[mrm_res_map2_]
+[mrm_res_map3_]
+[mrm_res_link]
+[mrm_env_map]
+[mrm_decn_info]
+[mrm_pri_desc ]
+[mrm_pridescex]
+[mrm_rev_map]
+c.V
+ew|>&=4_
+^`i
+W$N
+bVn{
+"BS
+?v|
+'?v
+Locky.exe
+*?v
+en-US
+United States
+3;0
+0123456789
+3;0
+h:mm:ss tt
+h:mm tt
+M/d/yyyy
+MMMM yyyy
+dddd, MMMM d, yyyy
+dV~
+5v`
+w N
+p9?vH9?v
+8f*v
+l4v
+.?AVbad_alloc@std@@
+.?AVbad_exception@std@@
+.?AVexception@std@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+.?AVbad_cast@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVtype_info@@
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+
+
+PST
+PDT
+PDT
+PST
+U%-
+5x9
+U%v
+U-v
+Um&
+Uyv
+U1@
+@RS
+5@RS
+ikt
+O}w<
+C:\Windows\SysWOW64
+-ARS
+O}w
+C:\Windows\SysWOW64
+w(F
+wMCRS
+w1NRS
+ikH
+MRS
+C:\Windows
+LRS
+wQHRS 4
+l1-1-0.dll
+MRS
+C:\Windows\SYSTEM32\kernelbase.dll
+ikL
+NRSd
+ik*
+hk<
+w:Q
+pi-ms-win-core-processthreads-l1-1-0
+5ORS
+wYN
+waHRS
+eHRS
+aHRS
+wl"
+$aHRSP
+HRS
+vx;
+HRS
+KRS
+KRS
+KRS
+KRS
+vP$
+K:6v
+Q6v
+Q6v
+86v&96v
+ 16v*16v416v>16vH16vR16v\16vf16vp16vz16v
+16v
+16v
+06v
+06v
+06v
+16v
+16v
+M6v
+N6v
+16v
+06vx06v
+N6v
+N6v%N6v
+vN6v
+N6v
+N6v
+N6v
+Q6v
+Q6v
+R6v
+96v
+96v
+96v
+96v
+96v
+96v
+:76v076v&76v
+76v
+76v
+76v
+66v
+66v
+66v
+66v
+66v
+66v
+66v
+66v
+66v
+66v
+66v
+66v
+66v
+66vh66vr66v|66v
+vPx
+vpk
+v k
+v j
+v`l
+v@R
+v`{
+v :
+v0:
+56v
+56v
+D86v
+76v:86vD76v_76vi76vs76v
+76v
+X86vN86v}76v
+26vT26v
+096v
+A:6v&:6v
+86v
+{zw
+{zwF{zw
+v`'
+v0'
+lzw&mzwnnzw
+lzw
+v0.
+v05
+v@(
+v0r
+v`B
+qzw6qzw
+qzw
+pzw
+pzw
+pzwVpzw6pzw
+szw
+szw
+pzw
+ozw
+ozw
+ozwvozwJszwTszw^szwhszw
+nzw
+ozw
+qzw
+wzw
+tzw6tzwVtzwvtzw
+tzw
+tzw
+tzw
+tzw
+uzw
+szw
+vzwvuzw
+uzw
+vzw
+vzw
+uzw
+vzw
+vzw
+vzw
+vzw
+vzw
+vzw
+uzw
+uzwVuzw
+vzw
+wzw
+szw
+wzw&wzw0wzwrszw
+szw6uzw
+v`H
+v06
+vpx
+v R
+vp2
+v`M
+v@x
+v@p
+v t
+vpt
+vPu
+vpR
+v0)
+v0}
+v@~
+v0~
+v@~
+v@~
+v@~
+v@~
+v0|
+v@~
+v@~
+v@~
+v@~
+v@~
+v@~
+v@~
+v@~
+v0~
+v@~
+v@~
+v@~
+v@~
+v@~
+v@~
+v0~
+v@~
+v@~
+v@~
+v@~
+v@~
+v@~
+v@~
+v0~
+v0~
+v0~
+v |
+v@~
+v@~
+v0~
+v@~
+v0~
+v0~
+v@~
+v@~
+vPY
+v0B
+v0|
+v`:
+v@|
+vpV
+vPd
+v@~
+v z
+v0~
+v0~
+v ~
+v0z
+v0{
+v@~
+v@~
+vP{
+v0f
+v0g
+v ?
+v0y
+vp|
+v`$
+v@u
+v z
+v`o
+v J
+vP=
+v0m
+v`m
+v n
+vPn
+v r
+v0P
+v@r
+vPZ
+v`r
+v u
+vp#
+v0S
+vpH
+vpZ
+v@x
+v`_
+vpJ
+vpI
+v D
+vpq
+vPQ
+v0U
+v0j
+v !
+vpY
+vp1
+v`i
+vP3
+vpQ
+yzw
+yzw
+xzw
+wzw
+xzw
+xzw
+wzw
+xzw
+xzw
+xzw
+yzw
+wzw
+wzwfwzw2yzw(yzw
+yzw:wzw
+xzw
+<yzw
+yzw
+yzw
+yzw
+zzw6zzwVzzwvzzw
+zzw
+zzw
+zzw
+zzw
+{zw
+\??\C:\Windows\SysWOW64\combase.dll
+\KnownDlls32\com\??\C:\Windows\System32\combase.dll
+v
+vP$
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVtype_info@@
+.?AVException@@
+.?AVFileFormatException@@
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+OPENGL32
+FNOT
+v \
+v \
+v(\
+v(\
+Bzw
+zwVC
+\BaseNamedObjects\Global\DESKTOP-AERI7HN
+\??\C:\Windows\system32
+\Device\HarddiskVolume4\Windows
+@kR
+#++S++
+8o@
+8o*
+@\T
+e8o@
+d8o
+6ob
+}w@
+@k}wt
+F`w
+S`w
+C`w
+B`wPB`w0D`w
+A`w
+%X0\
+n4v
+p4v
+6V`w
+V`w
+V`w
+V`w
+V`w|V`w
+U`w
+V`w
+V`w
+V`w"V`w,V`w
+V`w@V`wJV`wTV`w^V`whV`wrV`w
+]`w$]`w.]`w8]`w
+[`w
+]`wn[`w
+[`w
+[`w
+[`wB]`w
+[`w
+[`w
+[`w
+[`w
+[`w
+\`w
+\`w&\`w6\`wF\`wV\`wf\`wv\`w
+\`w
+\`w
+\`w
+\`w
+\`w
+\`w
+\`w
+\`w
+\`w
+\`w
+\`w
+]`w
+U`w
+U`w
+U`w
+U`w
+\??\C:\Windows\SysWOW64\rasman.dll
+64\rasman.dll
+\??\C:\Windows\SYSTEM32\rasman.dll
+w>7
+V"M
+xxT
+\REGISTR
+\REGISTR
+3++S++
+\REGISTRY\MACHINE\SOFTWARE\AVAST SoftwareE\ESET
+C:\Windows\SysWOW64\ntdll.dll
+w64.dll
+4}GvXNDv
+,}Gv(
+,}Gv
+NDv
+NDv
+NDv
+NDv
+NDv
+NDv
+NDv
+NDv
+cGv
+cGv
+Sc10
+cGv
+cGv
+cGv
+cGv
+cGv
+cGv
+lsth
+dGv
+dGvlstc$dGv$dGv,dGv,dGv
+lstpXdGvXdGv`dGv`dGv
+cFv
+cFv
+dFv
+Evx
+Evn
+EvS
+9';
+csm
+monProg
+File
+vrogr
+Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C
+32\cmd.exe
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPAT
+OCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OnO
+s_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+__COMPAT_LAYER=DetectorsXP
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+__COMPAT_LAYER=DetectorsXP
+v(&
+vH&
+vh&
+v('
+vH'
+vh'
+v((
+vH(
+vh(
+MSVCIRT.dll
+MSVCRT20.dll
+MSVCRT40.dll
+FWCWSP64.dll
+clr.dll
+KERNEL32.DLL
+BLACKBOX.DLL
+_0*
+`"0
+Sd^
+OLE32.dll
+OLEAUT32.dll
+MFC42ENU.DLL
+OLEAUT32.dll
+MSVCRT.dll
+MSVCIRT.dll
+MSVCRT20.dll
+MSVCRT40.dll
+MFC40.dll
+MFC42.dll
+MFCSUBS.dll
+MFCN42D.DLL
+MFCD42D.DLL
+MFCO42D.DLL
+MFC42D.DLL
+KERNEL32.DLL
+BLACKBOX.DLL
+FWCWSP.dll
+FWCWSP64.dll
+wpfredwnd_v0400.dll
+QTIM32.DLL
+MFC42ENU.DLL
+KERNELBASE.DLL
+MSVCRT.dll
+2;C:
+ows\
+\Win
+ndow
+\;C:
+ktop
+cdum
+\Des
+\Str
+mmy\
+als\
+:\Us
+a\Ro
+Wind
+rogr
+:\Pr
+cmd;
+ppDa
+s\Py
+ript
+y\Ap
+rams
+\;C:
+Data
+\Win
+rw;
+BLACKBOX.DLL
+xw.
+MSVCRT20.dll
+ewA
+MSVCRT40.dll
+nwC
+BLACKBOX.DLL
+kwA
+BLACKBOX.DLL
+TwT
+OLEAUT32.dll
+Qwy
+MFC42ENU.DLL
+Zwn
+MSVCRT40.dll
+GwR
+KERNEL32.DLL
+@wC
+FWCWSP64.dll
+FWCWSP64.dll
+6wr
+KERNEL32.DLL
+3w=
+MSVCRT40.dll
+<w8
+KERNELBASE.DLL
+9w)
+"wx
+MFC42ENU.DLL
+/w\
+KERNEL32.DLL
+(wu
+OLEAUT32.dll
+OLEAUT32.dll
+MSVCRT20.dll
+MSVCRT20.dll
+MFC42ENU.DLL
+Public
+SESSIONNA
+ows
+TEMP
+wpfredwnd_v0400.dll
+C:\Windows\SYSTEM32\apphelp.dll
+DetectorDWM8And16Bit
+clr.dll
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe
+"C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe"
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe
+Winsta0\Default
+=::=::\
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+8Y&3
+C:\Windows\SYSTEM32\ntdll.dll
+C:\Windows\System32ta\Lo
+C:\Windows\SYSTEM32;C:\Windows\system;C:\Windows;Loc
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\
+mW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Co
+C:\Windows\SYSTEM32\apphelp.dll
+C:\Windows\System32\KERNEL32.DLL
+:\U
+\l#mW
+w z
+}wh
+C:\Windows\System32\KERNELBASE.dll
+"C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe"
+dV~
+dV~
+,6]
+H8*
+6opB9o
+ws?
+9o(
+ApphelpDebug
+C:\Windows\Temp\AslLog_ApphelpDebug_Locky.exe_268.txt
+9oX
+Apphelp
+shimengstate
+C:\Windows\Temp\AslLog_shimengstate_Locky.exe_268.txt
+ShimDebugLog
+C:\Windows\Temp\AslLog_ShimDebugLog_Locky.exe_268.txt
+DetectorDWM8And16Bit
+cju
+ju
+@cju8
+juP
+>euh
+kdu
+PRdu
+jdu
+Rdu
+`\zw
+3fu
+3fu(
+7fu@
+jzwX
+0izwp
+hzw
+ Dzw
+PJzw
+ hzw
+Pzw0
+@fzwH
+gzw`
+zwx
+Xeu
+7eu
+dzw
+Czw8
+euP
+ezwh
+jzw
+fzw
+`1fu
+:fu
+OLE32.dll
+DetectorsTrace
+C:\Windows\Temp\AslLog_DetectorsTrace_Locky.exe_268.txt
+16o
+,6op
+16o
+,6o
+<o`
+16o
+,6o
+<op
+16o
+,6oP
+16o
+,6o
+16o
+,6o
+f4v
+_4v
+=::=::\
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+__COMPAT_LAYER=DetectorsXP
+8KZ0
+6o8
+8^,1
+dV~
+en-US
+52C64B7E
+en-US
+en-AU
+en-CA
+en-GB
+en-HK
+en-IE
+en-NZ
+en-SG
+ar-SA
+pt-BR
+zh-TW
+zh-CN
+zh-HK
+zh-SG
+cs-CZ
+da-DK
+el-GR
+es-AR
+es-CL
+es-CO
+es-ES
+es-MX
+es-US
+fi-FI
+fr-BE
+fr-CA
+fr-CH
+fr-FR
+de-AT
+de-CH
+de-DE
+he-IL
+hu-HU
+it-IT
+ja-JP
+ko-KR
+nl-BE
+nl-NL
+nb-NO
+pl-PL
+pt-PT
+ru-RU
+sv-SE
+tr-TR
+bg-BG
+hr-HR
+et-EE
+lv-LV
+lt-LT
+ro-RO
+sr-Latn-CS
+sr-Latn-RS
+sk-SK
+sl-SI
+th-TH
+uk-UA
+fy-NL
+qps-ploc
+qps-plocm
+qps-Latn-x-sh
+ADVAPI32.dll
+C:\Windows\System32\ADVAPI32.dll
+K/g
+@!B
+XGw
+MFCSUBS.dll
+MSVCRT.dll
+QTIM32.DLL
+OLE32.dll
+MFC42.dll
+MFCO42D.DLL
+MFCN42D.DLL
+MFC42D.DLL
+MSVCRT.dll
+FWCWSP.dll
+MFC42.dll
+MFC40.dll
+MFC42.dll
+MFCSUBS.dll
+MFCN42D.DLL
+MSVCIRT.dll
+MSVCIRT.dll
+FWCWSP.dll
+MFC40.dll
+MFCSUBS.dll
+MFCO42D.DLL
+MFCN42D.DLL
+OLE32.dll
+MFCO42D.DLL
+MFCD42D.DLL
+MFC42D.DLL
+MFCD42D.DLL
+MFC42D.DLL
+MFC40.dll
+FWCWSP.dll
+MFCD42D.DLL
+6oP
+]Gw>
+MFC40.dll
+FWCWSP.dll
+MSVCIRT.dll
+MSVCIRT.dll
+MFCO42D.DLL
+MSVCRT.dll
+MSVCIRT.dll
+MFC40.dll
+MSVCRT.dll
+OLE32.dll
+MFCSUBS.dll
+MFCN42D.DLL
+MFC42D.DLL
+MFC42.dll
+MFCN42D.DLL
+MFC40.dll
+MFCO42D.DLL
+FWCWSP.dll
+MFC42D.DLL
+OLE32.dll
+MFCO42D.DLL
+MFC42D.DLL
+FWCWSP.dll
+MFC42.dll
+MFCD42D.DLL
+OLE32.dll
+MFC42.dll
+MFCSUBS.dll
+MFCD42D.DLL
+MFCN42D.DLL
+MFCSUBS.dll
+MSVCRT.dll
+MFCO42D.DLL
+MSVCIRT.dll
+MFCO42D.DLL
+MFC42D.DLL
+MFC42.dll
+MFCN42D.DLL
+MFC42D.DLL
+MSVCRT.dll
+FWCWSP.dll
+MFC40.dll
+MFC42.dll
+MFCN42D.DLL
+MSVCIRT.dll
+MFCD42D.DLL
+MFCD42D.DLL
+MFCSUBS.dll
+OLE32.dll
+OLE32.dll
+FWCWSP.dll
+MSVCRT.dll
+MFCN42D.DLL
+MFC42.dll
+MFCSUBS.dll
+MFCSUBS.dll
+MFCD42D.DLL
+MFC40.dll
+MSVCRT.dll
+OLE32.dll
+MSVCIRT.dll
+MFC40.dll
+&Ow2
+BLACKBOX.DLL
+FWCWSP64.dll
+MFC42ENU.DLL
+FWCWSP64.dll
+KERNEL32.DLL
+OLEAUT32.dll
+OLEAUT32.dll
+MFC42ENU.DLL
+FWCWSP64.dll
+OLEAUT32.dll
+OLEAUT32.dll
+KERNEL32.DLL
+MSVCRT20.dll
+KERNEL32.DLL
+BLACKBOX.DLL
+BLACKBOX.DLL
+FWCWSP64.dll
+MSVCRT20.dll
+ALLUSERSPROFILE=C:\ProgramData
+MSVCRT20.dll
+MSVCRT40.dll
+KERNEL32.DLL
+MSVCRT40.dll
+MSVCRT40.dll
+MSVCRT40.dll
+MSVCRT20.dll
+MFC42ENU.DLL
+BLACKBOX.DLL
+MFC42ENU.DLL
+BLACKBOX.DLL
+BLACKBOX.DLL
+MSVCRT20.dll
+MSVCRT40.dll
+MFC42ENU.DLL
+OLEAUT32.dll
+MSVCRT20.dll
+MFC42ENU.DLL
+FWCWSP64.dll
+MSVCRT40.dll
+KERNEL32.DLL
+OLEAUT32.dll
+FWCWSP64.dll
+KERNEL32.DLL
+FWCWSP64.dll
+C:\Windows\SYSTEM32\apphelp.dll
+DetectorAccessDenied
+clr.dll
+clr.dll
+C:\Windows\SYSTEM32\apphelp.dll
+DetectorException
+clr.dll
+clr.dll
+C:\Windows\SYSTEM32\apphelp.dll
+DetectorGlobalObject
+clr.dll
+2Gw>
+MSVCIRT.dll
+MFCN42D.DLL
+MFCD42D.DLL
+MSVCIRT.dll
+FWCWSP.dll
+MFCD42D.DLL
+MFCD42D.DLL
+MFC40.dll
+MFCN42D.DLL
+FWCWSP.dll
+OLE32.dll
+MSVCRT.dll
+MFCO42D.DLL
+MFC42D.DLL
+MFC40.dll
+MFC42D.DLL
+MFC40.dll
+MSVCRT.dll
+MFC42.dll
+MFCO42D.DLL
+FWCWSP.dll
+MFC42D.DLL
+MFCSUBS.dll
+MFCO42D.DLL
+MFC42.dll
+MFC42.dll
+OLE32.dll
+OLE32.dll
+MFCSUBS.dll
+MSVCRT.dll
+MSVCIRT.dll
+MFCSUBS.dll
+MSVCRT.dll
+MSVCIRT.dll
+MSVCRT.dll
+MFC42.dll
+OLE32.dll
+MFCN42D.DLL
+MFCD42D.DLL
+MFCN42D.DLL
+MFCO42D.DLL
+OLE32.dll
+MSVCRT.dll
+MFCN42D.DLL
+MFCO42D.DLL
+MFCSUBS.dll
+MFCSUBS.dll
+MFC42.dll
+MFC40.dll
+FWCWSP.dll
+MSVCIRT.dll
+MFC40.dll
+MFCO42D.DLL
+FWCWSP.dll
+MSVCIRT.dll
+OLE32.dll
+MFCD42D.DLL
+MFC42D.DLL
+FWCWSP.dll
+MFCD42D.DLL
+MFC42D.DLL
+MFC42D.DLL
+clr.dll
+C:\Windows\SYSTEM32\apphelp.dll
+DetectorMessageBox
+</w
+C:\Windows\System32\IMM32.dll
+C:\Windows\SYSTEM32\apphelp.dll
+C:\Windows\System32\combase.dll
+C:\Windows\System32\GDI32.dll
+z6D
+C:\Windows\SYSTEM32\apphelp.dll
+C:\Windows\System32\USER32.dll
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+C:\Windows\SYSTEM32\apphelp.dll
+C:\Windows\System32\win32u.dll
+C:\Windows\System32\msvcrt.dll
+C:\Windows\System32\RPCRT4.dll
+C:\Windows\SYSTEM32\rasman.dll
+C:\Windows\SYSTEM32\rtutils.dll
+C:\Windows\System32\SspiCli.dll
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+C:\Windows\System32\sechost.dll
+clr.dll
+Ow2
+KERNEL32.DLL
+KERNEL32.DLL
+MFC42ENU.DLL
+KERNEL32.DLL
+MFC42ENU.DLL
+MSVCRT20.dll
+OLEAUT32.dll
+BLACKBOX.DLL
+OLEAUT32.dll
+MSVCRT20.dll
+MSVCRT40.dll
+MSVCRT40.dll
+BLACKBOX.DLL
+FWCWSP64.dll
+OLEAUT32.dll
+FWCWSP64.dll
+MSVCRT20.dll
+MSVCRT40.dll
+MFC42ENU.DLL
+KERNEL32.DLL
+FWCWSP64.dll
+FWCWSP64.dll
+MFC42ENU.DLL
+BLACKBOX.DLL
+OLEAUT32.dll
+MSVCRT40.dll
+BLACKBOX.DLL
+MSVCRT20.dll
+MFC42ENU.DLL
+MSVCRT40.dll
+MSVCRT20.dll
+BLACKBOX.DLL
+KERNEL32.DLL
+FWCWSP64.dll
+OLEAUT32.dll
+\l#mW
+MSVCRT20.dll
+FWCWSP64.dll
+BLACKBOX.DLL
+KERNEL32.DLL
+MSVCRT40.dll
+MFC42ENU.DLL
+OLEAUT32.dll
+clr.dll
+DetectorPrivilegeCheck
+clr.dll
+clr.dll
+DetectorShortRuntime
+rwh
+CommonProgramW6432=C:\Program Files\Common Files
+0/hk
+uik
+\l#mW
+\l#mW
+HookSwitchHookEnabledEvent
+@A v
+NT Authority\NetworkService
+\l#mW
+\l#mW
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+NT AUTHORITY\LOCAL SERVICE
+\l#mW
+=mk@
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+\l#mW
+\l#mW
+clr.dll
+Gw>
+MaxFileSize
+MaxFileSize
+MaxFileSize
+windir=C:\Windows
+rpcrt4.dll
+NUMBER_OF_PROCESSORS=4
+MFC42D.DLL
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+PUBLIC=C:\Users\Public
+MFCSUBS.dll
+MFC40.dll
+FWCWSP.dll
+DDRAW.DLL
+SESSIONNAME=Console
+MFC42.dll
+MFC42.dll
+SystemRoot=C:\Windows
+MSVCIRT.dll
+MFCD42D.DLL
+MFC42D.DLL
+MFCSUBS.dll
+MFCN42D.DLL
+MFCN42D.DLL
+MFCO42D.DLL
+OLE32.dll
+MSVCRT.dll
+MFC40.dll
+MFCD42D.DLL
+MFCO42D.DLL
+FWCWSP.dll
+HOMEPATH=\Users\Dummy
+clr.dll
+(x{
+DetectorRegExpandSz
+16o
+.6o
+8;o
+cju
+16o
+.6o
+;;o
+16o
+.6o
+9;o@cju
+16o
+.6o
+:;o
+16o
+.6o
+'9o
+>eu
+16o
+/6o
+=;o
+16o /6o
+>;o
+kdu
+16o8/6oP?;oPRdu
+16oP/6op>;o
+jdu
+16oh/6o
+>;o
+Rdu
+16o
+/6o`
+9o`\zw
+16o
+/6o
+3fu
+16o
+/6o 09o
+3fu
+16o
+/6o
+"9o
+7fu
+16o
+/6oP&9o
+jzw
+16o
+/6o
+"9o0izw
+16o
+/6o
+16o
+/6o
+hzw
+16o
+/6o
+7o Dzw
+16o
+/6o0'9o
+16o
+06o
+@;o
+16o
+06o
+?;oPJzw
+16o006o
+!9o hzw
+16o@06o
+<;o
+Pzw
+16oX06o
+9o@fzw
+16op06o0$9o
+gzw
+16o
+06o@=;o0
+16o
+06op
+16o
+06o
++9o`
+16o
+06o@
+9o`V
+16o
+06o
+9o
+16o
+06o
+Xeu
+16o
+06o
+7eu
+16o
+I6o`
+dzw
+16o
+16oP+9o
+Czw
+16o
+16o
+$9o
+16o$16o
+ezw
+16o816o
+'9o
+jzw
+16oH16op
+fzw
+16o
+I6o
+9o`1fu
+16o\16o
+:fu
+I6o
+I6o
+I6o
+I6op
+W6o
+W6o
+I6o
+I6o@
+I6o
+I6o
+cju
+cu@cju
+>eu
+kdu
+cuPRdu
+jdu
+Rdu
+zw`\zw
+3fu
+3fu
+7fu
+jzw
+zw0izw
+hzw
+zw Dzw
+zwPJzw
+zw hzw
+Pzw
+zw@fzw
+gzw
+zw0
+cu`
+cu`V
+cu
+Xeu
+7eu
+dzw
+Czw
+ezw
+jzw
+fzw
+cu`1fu
+:fu
+8;o
+;;o
+9;o8
+:;oP
+'9oh
+=;o
+>;o
+P?;o
+p>;o
+>;o
+ 09o(
+"9o@
+P&9oX
+"9op
+0'9o
+@;o
+?;o
+!9o
+<;o0
+9oH
+0$9o`
+@=;ox
++9o
+9o
+P+9o8
+$9oP
+9oh
+'9o
+<o(
+<o@
+7o \<o
+\<o
+7o(
+^<o
+7o8
+7o@]<o`
+7oH
+]<o
+7oX
+_<o
+7od
+a<o`
+7op
+_<o
+7o``<o
+b<o
+d<op<
+7opc<o
+d<o0
+a<o
+7o0b<o
+Y<o
+[<o
+7o@Z<o@
+Z<o0C
+#>oya>o
+#>o
+=>o
+&vP
+#>o
+=>o
+&v@
+#>o
+?>o
+&vP
+#>o
+?>o
+&vP
+vp<
+#>o
+@>o
+#>o
+@>o
+&v
+#>o
+M>o
+v0C
+3v(
+3vp
+2vx
+ \<o
+\<o
+^<o
+@]<o
+]<o(
+_<o@
+a<oX
+_<op
+``<o
+b<o
+d<o
+pc<o
+d<o
+a<o
+0b<o
+Y<o0
+[<oH
+@Z<o`
+Z<ox
+7oph<o`
+h<o
+7opi<o
+i<o
+#>o
+O>o
+f4v
+#>ouw>o
+_4v
+ph<oh
+h<o
+pi<o
+i<o
+16o
+,6o
+<o@
+16o
+,6op
+<op
+16o
+,6o`
+<op
+16o
+,6o
+16o
+,6o
+16o
+,6o
+16od,6o
+16op,6oP
+<o`
+16o
+,6o
+wdu
+cu@
+cup
+cup
+cu`
+wdu
+iu0
+iuH
+iu`
+dux
+wdu
+<o0
+<oH
+<o`
+<ox
+p<o`
+q<o
+7o0u<o
+\<o
+7o(
+v<o
+^<o
+7o8
+u<o@]<o
+7oH
+7o@v<o
+]<o
+7oX
+7oPw<o
+_<o
+7od
+x<o
+a<o
+7op
+w<o
+_<o
+7o`x<o``<o
+z<o
+b<o
+7o@|<o
+d<o
+7o {<opc<o
+{<o
+d<o
+7opy<o
+a<o
+z<o0b<o
+7opr<o
+7o,
+t<o
+7o<
+t<o
+7oL
+|<o
+#>o
+#>o
+#>o
+'>o
+&vp
+#>o
+=>o
+&vP
+#>o
+=>o
+&v@
+#>o
+?>o
+&vP
+#>o
+?>o
+&vP
+vp<
+#>o
+@>o
+#>o
+@>o
+&v
+#>o
+4>o
+&vPr4v
+3v`
+3vx
+Pr4v
+p<o
+q<o
+0u<o
+v<o
+u<o
+@v<o
+Pw<o0
+x<oH
+w<o`
+`x<ox
+z<o
+@|<o
+ {<o
+{<o
+py<o
+z<o
+pr<o
+t<o8
+t<oP
+|<oh
+cu@
+cup
+cup
+iu8h
+iuPh
+iuhh
+<o8h
+<oPh
+<ohh
+<o
+7o`
+<op
+<oP
+7o@
+<o`
+7oP
+<oP'
+#>o*@>o
+&vp
+#>o
+N>o
+#>o
+_>o
+#>o
+`>o
+v0&
+#>o
+O>o
+Z=v
+vH&
+vP'
+5v0&
+Z=vH&
+v`&
+v0&
+vH&
+<o0&
+<oH&
+<o`&
+C:\Windows\System32\gdi32full.dll
+UE="
+msvcp_win.dll
+w|)
+C:\Windows\System32\msvcp_win.dll
+<INC
+xw)
+LUDE
+eswU
+e~w<
+SystemDrive=C:
+e}w<
+exw
+egwE
+ebw
+OS=Windows_NT
+eawV
+USERNAME=Dummy
+elwg
+ekw
+eVwD
+eUwe
+ePwE
+e_wN
+eZw
+eYwR
+eDwt
+eCw
+eNwL
+eMwe
+eHwK
+e7wF
+e2ws
+e1wO
+e<w
+e;w=
+e&wN
+e%w"
+e wD
+e/w
+e*wM
+RT.d
+e)wI
+HOMEDRIVE=C:
+w
+`9f
+wE"
+w #
+`0f
+w4$
+wU%
+wE'
+3V,f
+w (
+C:\Windows\SYSTEM32\ucrtbase.dll
+frw2
+hkp?ik
+w`z
+qflw=
+tectorShortRuntime">
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExA"/>
+      <HOOK MODULE="USER32.DgfFwF
+TION="MessageBoxW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectA"/>
+      <HOOK MODULE="Mf0w3
+LL" FUNCTION="MessageBoxIndirectW"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE
+f*wU
+"OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MS
+k@8
+w(z
+wszhF
+G`w
+ <SHIM NAME="DetectorPrivilegeCheck">
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="AccessCheck"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="CheckTokenMembership"/>
+OOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreat7g
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyExW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTI
+penKeyW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyExA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyExW"/>
+      <HOOK MODULE="ADVAPI32.DLL
+gzvN
+ON="RegSetValueA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueExA"/>
+      <HOOK MODULE="ADVigTv2
+L" FUNCTION="RegSetValueExW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetKeyValueA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetKeyValueW"/>
+      <H_gNvM
+Eg8v/
+      <HOOK MODULE="POWRPROF.DLL" FUNCTION="SetActivePwrScheme"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="O
+#>@
+w@z
+DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dl
+    </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorMessageBox">
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="Mess9h
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="Me/h
+IndirectA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumWindows"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetW
+C:\Windows\System32\ucrtbase.dll
+wVisib
+Y`w
+IMM32.dll
+vTA
+jkD
+RASAPI32.dll
+ComSpec=C:\Windows\system32\cmd.exe
+C:\Windows\SYSTEM32\RASAPI32.dll
+Zoo
+es\Ransomware.Locky\Ransomware.Locky\rasman.dll
+ps;
+      <I
+FC42.dll
+LUD
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky;C:\Windows\SYSTEM32;C:\Windows\system;C:\Windows;.;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;
+*RIZ
+D*t
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+APPDATA=C:\Users\Dummy\AppData\Roaming
+<?xml version="1.0" encoding="utf-8"?>
+<MATCHED_ENTRIES>
+</MATCHED_ENTRIES>
+<SHIMENGSTATE PID="268" FILENAME="C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas.microsoft.com/appcompat/2010/03/shimengstate EngineState.xsd" xmlns="urn:schemas.microsoft.com/appcompat/2010/03/shimengstate">
+  <ENV NAME="__COMPAT_LAYER" VALUE="DetectorsXP"/>
+  <INEX MODE="EXCLUDE_SYSTEM32">
+    <INCLUDE MODULE="OLE32.dll"/>
+    <INCLUDE MODULE="OLEAUT32.dll"/>
+    <INCLUDE MODULE="MSVCRT.dll"/>
+    <INCLUDE MODULE="MSVCIRT.dll"/>
+    <INCLUDE MODULE="MSVCRT20.dll"/>
+    <INCLUDE MODULE="MSVCRT40.dll"/>
+    <INCLUDE MODULE="MFC40.dll"/>
+    <INCLUDE MODULE="MFC42.dll"/>
+    <INCLUDE MODULE="MFCSUBS.dll"/>
+    <INCLUDE MODULE="MFC42ENU.DLL"/>
+    <INCLUDE MODULE="MFCN42D.DLL"/>
+    <INCLUDE MODULE="MFCD42D.DLL"/>
+    <INCLUDE MODULE="MFCO42D.DLL"/>
+    <INCLUDE MODULE="MFC42D.DLL"/>
+    <INCLUDE MODULE="KERNEL32.DLL"/>
+    <EXCLUDE MODULE="BLACKBOX.DLL"/>
+    <EXCLUDE MODULE="FWCWSP.dll"/>
+    <EXCLUDE MODULE="FWCWSP64.dll"/>
+  </INEX>
+  <FIXES>
+    <SHIM NAME="SYSTEM">
+    </SHIM>
+    <SHIM NAME="DetectorRegExpandSz">
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegQueryValueExA"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="CreateFileA"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="GetFileAttributesA"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="GetFileAttributesExA"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="CreateProcessA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="CreateProcessAsUserA"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorShortRuntime">
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectW"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorPrivilegeCheck">
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="AccessCheck"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="CheckTokenMembership"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyExA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyExW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyExA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyExW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueExA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueExW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetKeyValueA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetKeyValueW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="GetTokenInformation"/>
+      <HOOK MODULE="SHELL32.DLL" FUNCTION="IsUserAnAdmin"/>
+      <HOOK MODULE="NETAPI32.DLL" FUNCTION="NetUserGetInfo"/>
+      <HOOK MODULE="POWRPROF.DLL" FUNCTION="SetActivePwrScheme"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorMessageBox">
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumWindows"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetWindowThreadProcessId"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="IsWindowVisible"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorGlobalObject">
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="CreateFileMappingA"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="CreateFileMappingW"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="OpenFileMappingA"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="OpenFileMappingW"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorException">
+    </SHIM>
+    <SHIM NAME="DetectorAccessDenied">
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="GetLastError"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyExA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegCreateKeyExW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyExA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegOpenKeyExW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueExA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetValueExW"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetKeyValueA"/>
+      <HOOK MODULE="ADVAPI32.DLL" FUNCTION="RegSetKeyValueW"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="CopyFileA"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="CopyFileW"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="CopyFileExA"/>
+      <HOOK MODULE="KERNEL32.DLL" FUNCTION="CopyFileExW"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorDWM8And16Bit">
+      <HOOK MODULE="USER32.DLL" FUNCTION="ChangeDisplaySettingsA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="ChangeDisplaySettingsW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="ChangeDisplaySettingsExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="ChangeDisplaySettingsExW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplayDevicesA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplayDevicesW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplaySettingsA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplaySettingsW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplaySettingsExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplaySettingsExW"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="GetDeviceCaps"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetDC"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetDCEx"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetWindowDC"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDCA"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDCW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="ReleaseDC"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="SelectPalette"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="RealizePalette"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="GetSystemPaletteUse"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="SetSystemPaletteUse"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="GetSystemPaletteEntries"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateBitmap"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateBitmapIndirect"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateCompatibleBitmap"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDIBitmap"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDiscardableBitmap"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumThreadWindows"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumChildWindows"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="DefWindowProcW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="CallWindowProcW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="SetWindowLongW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetWindowLongW"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="BitBlt"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="GetPaletteEntries"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="WindowFromDC"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateCompatibleDC"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreatePalette"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDIBSection"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="DestroyWindow"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="RedrawWindow"/>
+      <HOOK MODULE="DDRAW.DLL" FUNCTION="DirectDrawCreate"/>
+      <HOOK MODULE="DDRAW.DLL" FUNCTION="DirectDrawCreateEx"/>
+      <HOOK MODULE="D3D8.DLL" FUNCTION="Direct3DCreate8"/>
+      <HOOK MODULE="D3D9.DLL" FUNCTION="Direct3DCreate9"/>
+      <HOOK MODULE="D3D9.DLL" FUNCTION="Direct3DCreate9Ex"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="QTIM32.DLL"/>
+        <INCLUDE MODULE="KERNELBASE.DLL"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="wpfredwnd_v0400.dll"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+  </FIXES>
+</SHIMENGSTATE>
+axXw
+*srw
+#s}w
+sdw
+sow
+sVw
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+sQw
+sXw
+}sCw
+rsJw
+ks5w
+`s<w
+SOFTWARE\AVAST Software
+Ys'w
+^s.w
+Ws)w
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+ProgramFiles(x86)=C:\Program Files (x86)
+C:\Windows\SYSTEM32\sechost.dll
+4Ev
+wxz
+wZV
+RPCRT4.dll
+wRE
+<+tt
+SspiCli.dll
+ASE.dll
+*)t
+C:\Windows\System32\CRYPTBASE.dll
+imitives.dll
+wpz
+C:\Windows\System32\bcryptPrimitives.dll
+rtutils.dll
+}w
+0-t
+0-t
+@p,t
+0-t
+win32u.dll
+zw(
+GDI32.dll
+izw
+wuU
+"Hw2
+cxswE
+fx|wD
+ProgramData=C:\ProgramData
+]xywA
+:yc
+Pxbwo
+ADVAPI32.DLL
+Wxowo
+USERPROFILE=C:\Users\Dummy
+Jxhwm
+DESKTOP-AERI7HN
+AxUwg
+Dx^wo
+COMPUTERNAME=DESKTOP-AERI7HN
+x[wm
+g27kkY9019n7t01
+xDwg
+-G%y
+xAw
+g27kkY9019n7t01
+xJwC
+g27kkY9019n7t01
+x7w-
+g27kkY9019n7t01
+x0wW
+g27kkY9019n7t01
+x=w.
+g27kkY9019n7t01
+x&w_
+PROCESSOR_ARCHITEW6432=AMD64
+x#wr
+USERDOMAIN=DESKTOP-AERI7HN
+x,wO
+PROCESSOR_ARCHITECTURE=x86
+x)wT
+DESKTOP-AERI7HN
+ADVAPI32.DLL
+SOFTWARE\ESET
+g27kkY9019n7t01
+g27kkY9019n7t01
+LOGONSERVER=\\DESKTOP-AERI7HN
+g27kkY9019n7t01
+g27kkY9019n7t01
+g27kkY9019n7t01
+__COMPAT_LAYER=DetectorsXP
+ProgramW6432=C:\Program Files
+wo
+erShell\v1.0\;C:
+ws!
+rs\Dummy\Desktop
+wy"
+interals\Procdum
+wC#
+\Users\Dummy\Des
+wo$
+\sysinterals\Str
+wg%
+;C:\Users\Dummy\
+ws&
+top\sysinterals\
+wo'
+essMonitor;C:\Us
+ws(
+Dummy\AppData\Ro
+wi)
+g\Microsoft\Wind
+ws*
+Start Menu\Progr
+ws+
+Python 3.7;C:\Pr
+wr,
+m Files\Git\cmd;
+w\-
+sers\Dummy\AppDa
+w\.
+ocal\Programs\Py
+wo/
+\Python37\Script
+w;0
+:\Users\Dummy\Ap
+wa1
+a\Local\Programs\Pyt
+FPS_BROWSER_USER_PROFILE_STRING=Default
+*Pw
+Yyrwr
+a6d6L578s522BH7O2
+_y|wE
+a6d6L578s522BH7O2
+Uyfw.
+a6d6L578s522BH7O2
+Ky`w.
+ProgramFiles=C:\Program Files (x86)
+AyjwI
+a6d6L578s522BH7O2
+GyTwR
+a6d6L578s522BH7O2
+y^wS
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+yXwa
+NT AUTHORITY\SYSTEM
+yBwn
+dddd, MMMM d, yyyy
+yLwS
+a6d6L578s522BH7O2
+y6wE
+a6d6L578s522BH7O2
+y0w=
+a6d6L578s522BH7O2
+y:wi
+a6d6L578s522BH7O2
+y$w8
+y.w\
+OneDrive=C:\Users\Dummy\OneDrive
+y(wg
+ncalrpc:[ntsvcs]
+a6d6L578s522BH7O2
+TMP=C:\Users\Dummy\AppData\Local\Temp
+ncalrpc:[ntsvcs]
+a6d6L578s522BH7O2
+ell\v1.0\Modules
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+y.exe
+am F
+3pw
+^zrwO
+PzpwO
+Rz~wR
+Tz|w4
+eDri
+Vzzwe
+Dumm
+Hzxwv
+Jzfw
+Lzdw\
+tem3
+Nzbwd
+@z`wS
+em32
+Bznw\
+Dzlw2
+ndow
+Fzjwe
+v1.0
+zhwr
+zVw\
+zTwc
+p;C:
+zRwu
+zPwi
+z^w;
+z\wD
+top\
+zZwa
+zXwo
+:\Us
+zFwy
+zDwg
+cros
+zBwo
+z@wr
+zNw.
+zLwl
+t\cmd;
+zJws
+zHwt
+ocal
+C:\Windows\SYSTEM32\rtutils.dll
+         (((((                  H
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+         (((((                  H
+         (((((                  H
+U1S
+U5S
+U=S
+U9S
+U!S
+U)S
+U%S
+U-S
+UUS
+UQS
+UYS
+UAS
+U]S
+UES
+UMS
+UIS
+UqS
+UyS
+UuR
+|rw
+|iw
+<}Lw@
+pjd
+jk
+}#w0
+i.@A v
+5f]
+HMEN
+nro
+}dv
+@3c
+}[v
+HMEN
+nro
+*~>v
+=mk
+G/0/hk
+(KM
+!/T
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe
+xw)
+3V}
+3Ve
+3VQ
+3VC
+;o5
+yw)
+#@sw
+`$@~w
+@}w
+@xw
+@gw
+@bw
+@aw
+@lw
+@kw
+@Vw
+@Uw
+@Pw
+@_w
+x@Zw
+'}@Yw
+~@Dw
+[s@Cw
+'t@Nw
+`i@Mw
+j@Hw
+[o@7w
+`@2w
+e@1w
+f@<w
+'[@;w
+\@&w
+Q@%w
+R@ w
+W@/w
+H@*w
+M@)w
+`N@
+[C@
+yw)
+@sw
+@~w0
+@}w
+@xw
+@gw
+@bw
+@awp
+@lw
+@kw
+@Vw
+@Uw
+@Pwp
+@_w
+@Zw
+@Yw`
+@Dw
+@Cw
+@Nw
+@Mw
+@Hw
+@7w
+@2w
+@1wp
+@<w
+@;w
+@&w
+@%w
+@ w
+@/w`
+@*wp
+@)w
+w`!
+[8A
+wp"
+[=A
+w@%
+')A
+w (
+;o5
+yw)
+}Asw
+[~A~w
+[sA}w
+'tAxw
+iAgw
+[jAbw
+oAaw
+`Alw
+eAkw
+fAVw
+[AUw
+\APw
+QA_w
+RAZw
+WAYw
+HADw
+[MACw
+'NANw
+`CAMw
+DAHw
+A7w
+A2w
+A1w
+A<w
+A;w
+A&w
+A%w
+A w
+A/w
+A*w
+A)w
+yw)
+Asw
+A~w0
+A}w
+Axw
+Agw
+Abw
+Aawp
+ncalrpc
+Alw
+ntsvcs
+Akw
+AVw
+AUw
+APwp
+ntsvcs
+A_w
+ncalrpc
+AZw
+ntsvcs
+AYw`
+ADw
+dmB
+ACw
+I&Z@
+ANw
+AMw
+AHw
+8B7w
+=B2w
+>B1wp
+3B<w
+4B;w
+)B&w
+*B%w
+/B w
+I&Z@
+1: B/w`
+%B*wp
+&B)w
+I&Z@
+w`!
+wp"
+w@%
+w (
+Locky_RASAPI32
+Locky_RASAPI32
+C:\Windows\tracing
+C:\Windows\tracing
+yw)
+Bsw
+B~w
+B}w
+Bxw
+Bgw
+Bbw
+Baw
+Blw
+Bkw
+8CVw
+=CUw
+@2"
+>>CPw
+3C_w
+`4CZw
+)CYw
+*CDw
+A)/CCw
+t CNw
+%CMw
+&CHw
+C7w
+C2w
+C1w
+C<w
+C;w
+C&w
+C%w
+C w
+C/w
+C*w
+j*f
+jyC)w
+A)vC
+tkC
+DetectorShims,Fired,8003,0
+OP\THEZOO\THEZOO\MALWARES\BINARIES\RANSOMWAR
+OCKY\G27KKY9019N7T01
+WGrw
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+CGfw
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+Gjw
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+G^w
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+GBw
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+G6w
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+G:w
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+G.w
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01.DLL
+VHrw
+C:\Windows\system32\G27KKY9019N7T01.DLL
+CHyw
+\??\C:\Windows\system32\G27KKY9019N7T01
+Hlw
+dows\system32\G27KKY9019N7T01
+HSw
+C:\Windows\system32\G27KKY9019N7T01.DLL
+HFw
+C:\Windows\system32\G27KKY9019N7T01.DLL
+HMw
+C:\Windows\system32\G27KKY9019N7T01.DLL
+H0w
+C:\Windows\system32\G27KKY9019N7T01.DLL
+H'w
+C:\Windows\system32\G27KKY9019N7T01.DLL
+H*w
+\??\C:\Windows\system32\G27KKY9019N7T01
+\??\C:\Windows\system32\G27KKY9019N7T01
+C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01
+\??\C:\Windows\system32\G27KKY9019N7T01
+\??\C:\Windows\system32\G27KKY9019N7T01
+C:\Windows\system32\G27KKY9019N7T01.DLL
+\??\C:\Windows\system32\G27KKY9019N7T01
+\??\C:\Windows\system32\G27KKY9019N7T01
+\??\C:\Windows\system32\G27KKY9019N7T01
+C:\Windows\system32\G27KKY9019N7T01.DLL
+C:\Windows\system32\G27KKY9019N7T01.DLL
+C:\Windows\system32\G27KKY9019N7T01.DLL
+dows\system32\G27KKY9019N7T01
+IIrw
+CIxw
+Inw
+ITw
+IZw
+I@w
+I6w
+I<w
+I"w
+I(w
+Jrw
+Jgw
+2Khw
+!K]w
+KNw
+K3w
+K$w
+uK)w
+(iDv
+:yc
+Windows Push Notifications User Service_38d0e
+ons User Service_38d0e
+WpnUserService_38d0e
+ice_38d0e
+User Data Access_38d0e
+cess_38d0e
+UserDataSvc_38d0e
+vc_38d0e
+User Data Storage_38d0e
+orage_38d0e
+UnistoreSvc_38d0e
+vc_38d0e
+Contact Data_38d0e
+ta_38d0e
+PimIndexMaintenanceSvc_38d0e
+anceSvc_38d0e
+Sync Host_38d0e
+t_38d0e
+OneSyncSvc_38d0e
+c_38d0e
+MessagingService_38d0e
+vice_38d0e
+MessagingService_38d0e
+vice_38d0e
+DevicesFlow_38d0e
+ow_38d0e
+DevicesFlowUserSvc_38d0e
+erSvc_38d0e
+Connected Devices Platform User Service_38d0e
+orm User Service_38d0e
+CDPUserSvc_38d0e
+c_38d0e
+Xbox Live Networking Service
+rking Service
+XboxNetApiSvc
+ApiSvc
+Xbox Accessory Management Service
+nagement Service
+XboxGipSvc
+pSvc
+Xbox Live Game Save
+Game Save
+XblGameSave
+eSave
+Xbox Live Auth Manager
+th Manager
+XblAuthManager
+anager
+Xbox Game Monitoring
+onitoring
+xbgm
+WWAN AutoConfig
+oConfig
+WwanSvc
+Svc
+Windows Driver Foundation - User-mode Driver Framework
+User-mode Driver Framework
+wudfsvc
+svc
+Windows Update
+Update
+wuauserv
+erv
+Windows Search
+Search
+WSearch
+rch
+Security Center
+ Center
+wscsvc
+Windows Push Notifications System Service
+tions System Service
+WpnService
+vice
+Portable Device Enumerator Service
+umerator Service
+WPDBusEnum
+Enum
+Work Folders
+lders
+workfolderssvc
+erssvc
+Windows Media Player Network Sharing Service
+twork Sharing Service
+WMPNetworkSvc
+orkSvc
+WMI Performance Adapter
+nce Adapter
+wmiApSrv
+Srv
+LPA Service
+rvice
+wlpasvc
+svc
+Microsoft Account Sign-in Assistant
+Sign-in Assistant
+wlidsvc
+svc
+WLAN AutoConfig
+oConfig
+WlanSvc
+Svc
+Windows Insider Service
+der Service
+wisvc
+Windows Remote Management (WS-Management)
+ment (WS-Management)
+WinRM
+Windows Management Instrumentation
+ Instrumentation
+Winmgmt
+gmt
+WinHTTP Web Proxy Auto-Discovery Service
+o-Discovery Service
+WinHttpAutoProxySvc
+oProxySvc
+Windows Defender Antivirus Service
+ntivirus Service
+WinDefend
+fend
+Still Image Acquisition Events
+isition Events
+WiaRpc
+Wi-Fi Direct Services Connection Manager Service
+nection Manager Service
+WFDSConMgrSvc
+MgrSvc
+Windows Error Reporting Service
+porting Service
+WerSvc
+Problem Reports and Solutions Control Panel Support
+ons Control Panel Support
+wercplsupport
+upport
+Windows Encryption Provider Host Service
+ovider Host Service
+WEPHOSTSVC
+TSVC
+Windows Event Collector
+t Collector
+Wecsvc
+WebClient
+ient
+WebClient
+ient
+Windows Defender Antivirus Network Inspection Service
+Network Inspection Service
+WdNisSvc
+Svc
+Diagnostic System Host
+ystem Host
+WdiSystemHost
+emHost
+Diagnostic Service Host
+ervice Host
+WdiServiceHost
+ceHost
+Windows Connect Now - Config Registrar
+- Config Registrar
+wcncsvc
+svc
+Windows Connection Manager
+tion Manager
+Wcmsvc
+Windows Biometric Service
+tric Service
+WbioSrvc
+rvc
+Block Level Backup Engine Service
+p Engine Service
+wbengine
+ine
+WalletService
+ervice
+WalletService
+ervice
+Windows Time
+ Time
+W32Time
+ime
+Volume Shadow Copy
+dow Copy
+VSS
+VMware CAF Management Agent Service
+ent Agent Service
+VMwareCAFManagementAgentHost
+mentAgentHost
+VMware CAF AMQP Communication Service
+munication Service
+VMwareCAFCommAmqpListener
+AmqpListener
+VMware Physical Disk Helper Service
+sk Helper Service
+VMware Physical Disk Helper Service
+sk Helper Service
+VMware Snapshot Provider
+ot Provider
+vmvss
+VMware Tools
+Tools
+VMTools
+ols
+Hyper-V Volume Shadow Copy Requestor
+ow Copy Requestor
+vmicvss
+vss
+Hyper-V PowerShell Direct Service
+l Direct Service
+vmicvmsession
+ession
+Hyper-V Time Synchronization Service
+onization Service
+vmictimesync
+esync
+Hyper-V Guest Shutdown Service
+utdown Service
+vmicshutdown
+tdown
+Hyper-V Remote Desktop Virtualization Service
+Virtualization Service
+vmicrdv
+rdv
+Hyper-V Data Exchange Service
+change Service
+vmickvpexchange
+xchange
+Hyper-V Heartbeat Service
+beat Service
+vmicheartbeat
+rtbeat
+Hyper-V Guest Service Interface
+rvice Interface
+vmicguestinterface
+nterface
+VMware Alias Manager and Ticket Service
+ and Ticket Service
+VGAuthService
+ervice
+Virtual Disk
+ Disk
+vds
+Credential Manager
+ Manager
+VaultSvc
+Svc
+Update Orchestrator Service
+rator Service
+UsoSvc
+User Manager
+nager
+UserManager
+nager
+UPnP Device Host
+ce Host
+upnphost
+ost
+Remote Desktop Services UserMode Port Redirector
+serMode Port Redirector
+UmRdpService
+rvice
+Interactive Services Detection
+ices Detection
+UI0Detect
+tect
+Auto Time Zone Updater
+ne Updater
+tzautoupdate
+pdate
+Windows Modules Installer
+es Installer
+TrustedInstaller
+staller
+Distributed Link Tracking Client
+Tracking Client
+TrkWks
+TokenBroker
+roker
+TokenBroker
+roker
+Time Broker
+roker
+TimeBrokerSvc
+kerSvc
+Tile Data model server
+del server
+tiledatamodelsvc
+odelsvc
+Storage Tiers Management
+ Management
+TieringEngineService
+neService
+Themes
+Themes
+Remote Desktop Services
+op Services
+TermService
+rvice
+Telephony
+hony
+TapiSrv
+Srv
+Touch Keyboard and Handwriting Panel Service
+writing Panel Service
+TabletInputService
+tService
+System Events Broker
+ts Broker
+SystemEventsBroker
+tsBroker
+Superfetch
+etch
+SysMain
+ain
+Microsoft Software Shadow Copy Provider
+hadow Copy Provider
+swprv
+Spot Verifier
+rifier
+svsvc
+Storage Service
+Service
+StorSvc
+Svc
+Windows Image Acquisition (WIA)
+quisition (WIA)
+stisvc
+State Repository Service
+ory Service
+StateRepository
+ository
+Secure Socket Tunneling Protocol Service
+ng Protocol Service
+SstpSvc
+Svc
+SSDP Discovery
+covery
+SSDPSRV
+SRV
+Software Protection
+rotection
+sppsvc
+Print Spooler
+pooler
+Spooler
+ler
+Windows Perception Service
+tion Service
+spectrum
+rum
+SNMP Trap
+Trap
+SNMPTRAP
+RAP
+Microsoft Windows SMS Router Service.
+MS Router Service.
+SmsRouter
+uter
+Microsoft Storage Spaces SMP
+ge Spaces SMP
+smphost
+ost
+Shared PC Account Manager
+ount Manager
+shpamsvc
+svc
+Shell Hardware Detection
+e Detection
+ShellHWDetection
+tection
+Internet Connection Sharing (ICS)
+on Sharing (ICS)
+SharedAccess
+ccess
+Remote Desktop Configuration
+Configuration
+SessionEnv
+nEnv
+Sensor Monitoring Service
+ring Service
+SensrSvc
+Svc
+Sensor Service
+ervice
+SensorService
+ervice
+Sensor Data Service
+a Service
+SensorDataService
+aService
+System Event Notification Service
+fication Service
+SENS
+Payments and NFC/SE Manager
+FC/SE Manager
+SEMgrSvc
+Svc
+Windows Defender Security Center Service
+rity Center Service
+SecurityHealthService
+lthService
+Secondary Logon
+y Logon
+seclogon
+gon
+Windows Backup
+Backup
+SDRSVC
+Smart Card Removal Policy
+moval Policy
+SCPolicySvc
+cySvc
+Task Scheduler
+eduler
+Schedule
+ule
+Smart Card Device Enumeration Service
+numeration Service
+ScDeviceEnum
+eEnum
+Smart Card
+Card
+SCardSvr
+Svr
+Security Accounts Manager
+unts Manager
+SamSs
+Remote Procedure Call (RPC)
+re Call (RPC)
+RpcSs
+Remote Procedure Call (RPC) Locator
+all (RPC) Locator
+RpcLocator
+ator
+RPC Endpoint Mapper
+nt Mapper
+RpcEptMapper
+apper
+Radio Management Service
+ent Service
+RmSvc
+Retail Demo Service
+o Service
+RetailDemo
+Demo
+Remote Registry
+egistry
+RemoteRegistry
+gistry
+Routing and Remote Access
+emote Access
+RemoteAccess
+ccess
+Remote Access Connection Manager
+nection Manager
+RasMan
+Remote Access Auto Connection Manager
+Connection Manager
+RasAuto
+uto
+Quality Windows Audio Video Experience
+o Video Experience
+QWAVE
+User Profile Service
+e Service
+ProfSvc
+Svc
+Printer Extensions and Notifications
+and Notifications
+PrintNotify
+otify
+Power
+Power
+IPsec Policy Agent
+cy Agent
+PolicyAgent
+Agent
+Peer Name Resolution Protocol
+ution Protocol
+PNRPsvc
+svc
+PNRP Machine Name Publication Service
+ublication Service
+PNRPAutoReg
+toReg
+Plug and Play
+d Play
+PlugPlay
+lay
+Performance Logs & Alerts
+ogs & Alerts
+pla
+Phone Service
+ervice
+PhoneSvc
+Svc
+Performance Counter DLL Host
+nter DLL Host
+PerfHost
+ost
+Program Compatibility Assistant Service
+y Assistant Service
+PcaSvc
+Peer Networking Grouping
+ng Grouping
+p2psvc
+Peer Networking Identity Manager
+dentity Manager
+p2pimsvc
+svc
+Network Store Interface Service
+terface Service
+nsi
+Network Location Awareness
+on Awareness
+NlaSvc
+Microsoft Passport
+Passport
+NgcSvc
+Microsoft Passport Container
+ort Container
+NgcCtnrSvc
+rSvc
+Net.Tcp Port Sharing Service
+aring Service
+NetTcpPortSharing
+tSharing
+Network Setup Service
+up Service
+NetSetupSvc
+upSvc
+Network List Service
+t Service
+netprofm
+ofm
+Network Connections
+nnections
+Netman
+Netlogon
+gon
+Netlogon
+gon
+Network Connected Devices Auto-Setup
+evices Auto-Setup
+NcdAutoSetup
+Setup
+Network Connection Broker
+ction Broker
+NcbService
+vice
+Network Connectivity Assistant
+vity Assistant
+NcaSvc
+Natural Authentication
+entication
+NaturalAuthentication
+entication
+Windows Installer
+nstaller
+msiserver
+rver
+Microsoft iSCSI Initiator Service
+nitiator Service
+MSiSCSI
+CSI
+Distributed Transaction Coordinator
+ction Coordinator
+MSDTC
+Windows Firewall
+irewall
+MpsSvc
+Downloaded Maps Manager
+aps Manager
+MapsBroker
+oker
+Local Session Manager
+on Manager
+LSM
+TCP/IP NetBIOS Helper
+IOS Helper
+lmhosts
+sts
+Link-Layer Topology Discovery Mapper
+ Discovery Mapper
+lltdsvc
+svc
+Windows License Manager Service
+Manager Service
+LicenseManager
+anager
+Geolocation Service
+n Service
+lfsvc
+Workstation
+ation
+LanmanWorkstation
+kstation
+Server
+LanmanServer
+erver
+KtmRm for Distributed Transaction Coordinator
+ransaction Coordinator
+KtmRm
+CNG Key Isolation
+solation
+KeyIso
+Infrared monitor service
+tor service
+irmon
+IP Translation Configuration Service
+iguration Service
+IpxlatCfgSvc
+fgSvc
+IP Helper
+lper
+iphlpsvc
+svc
+IKE and AuthIP IPsec Keying Modules
+ec Keying Modules
+IKEEXT
+Windows Mobile Hotspot Service
+otspot Service
+icssvc
+HV Host Service
+Service
+HvHost
+HomeGroup Provider
+Provider
+HomeGroupProvider
+Provider
+Human Interface Device Service
+Device Service
+hidserv
+erv
+Google Update Service (gupdatem)
+vice (gupdatem)
+gupdatem
+tem
+Google Update Service (gupdate)
+rvice (gupdate)
+gupdate
+ate
+Group Policy Client
+cy Client
+gpsvc
+Google Chrome Elevation Service
+evation Service
+GoogleChromeElevationService
+vationService
+Windows Camera Frame Server
+ Frame Server
+FrameServer
+erver
+Windows Font Cache Service
+ache Service
+FontCache
+ache
+File History Service
+y Service
+fhsvc
+Function Discovery Resource Publication
+esource Publication
+FDResPub
+Pub
+Function Discovery Provider Host
+y Provider Host
+fdPHost
+ost
+Fax
+Fax
+COM+ Event System
+t System
+EventSystem
+ystem
+Windows Event Log
+vent Log
+EventLog
+Log
+Enterprise App Management Service
+nagement Service
+EntAppSvc
+pSvc
+Embedded Mode
+d Mode
+embeddedmode
+dmode
+Encrypting File System (EFS)
+ System (EFS)
+EFS
+Extensible Authentication Protocol
+ication Protocol
+EapHost
+ost
+Data Usage
+sage
+DusmSvc
+Svc
+Data Sharing Service
+g Service
+DsSvc
+Device Setup Manager
+p Manager
+DsmSvc
+Diagnostic Policy Service
+licy Service
+DPS
+Wired AutoConfig
+oConfig
+dot3svc
+svc
+Delivery Optimization
+timization
+DoSvc
+DNS Client
+ient
+Dnscache
+che
+dmwappushsvc
+shsvc
+dmwappushservice
+service
+Device Management Enrollment Service
+nrollment Service
+DmEnrollmentSvc
+mentSvc
+Connected User Experiences and Telemetry
+ences and Telemetry
+DiagTrack
+rack
+Microsoft (R) Diagnostics Hub Standard Collector Service
+ Standard Collector Service
+diagnosticshub.standardcollector.service
+rdcollector.service
+DHCP Client
+lient
+Dhcp
+DevQuery Background Discovery Broker
+ Discovery Broker
+DevQueryBroker
+Broker
+Device Install Service
+ll Service
+DeviceInstall
+nstall
+Device Association Service
+tion Service
+DeviceAssociationService
+tionService
+Optimize drives
+ drives
+defragsvc
+gsvc
+DCOM Server Process Launcher
+cess Launcher
+DcomLaunch
+unch
+Cryptographic Services
+c Services
+CryptSvc
+Svc
+CoreMessaging
+saging
+CoreMessagingRegistrar
+gRegistrar
+COM+ System Application
+Application
+COMSysApp
+sApp
+Client License Service (ClipSVC)
+rvice (ClipSVC)
+ClipSVC
+SVC
+Certificate Propagation
+Propagation
+CertPropSvc
+opSvc
+Connected Devices Platform Service
+Platform Service
+CDPSvc
+Bluetooth Support Service
+port Service
+bthserv
+erv
+Bluetooth Handsfree Service
+sfree Service
+BthHFSrv
+Srv
+Computer Browser
+Browser
+Browser
+ser
+Background Tasks Infrastructure Service
+rastructure Service
+BrokerInfrastructure
+structure
+Background Intelligent Transfer Service
+nt Transfer Service
+BITS
+Base Filtering Engine
+ing Engine
+BFE
+BitLocker Drive Encryption Service
+cryption Service
+BDESVC
+ActiveX Installer (AxInstSV)
+er (AxInstSV)
+AxInstSV
+tSV
+Windows Audio
+ Audio
+Audiosrv
+srv
+Windows Audio Endpoint Builder
+dpoint Builder
+AudioEndpointBuilder
+ntBuilder
+AppX Deployment Service (AppXSVC)
+ervice (AppXSVC)
+AppXSvc
+Svc
+App Readiness
+diness
+AppReadiness
+iness
+Application Information
+Information
+Appinfo
+nfo
+Application Identity
+ Identity
+AppIDSvc
+Svc
+Application Layer Gateway Service
+ Gateway Service
+ALG
+AllJoyn Router Service
+er Service
+AJRouter
+ter
+8Ta!
+v@<
+v0<
+vH<
+v8<
+v@<
+v0<
+vH<
+vPV
+v,E
+v$r
+v(r
+v,r
+v0r
+v4r
+v8r
+v<r
+vDr
+vLr
+vTr
+v`r
+vlr
+vtr
+v s
+v,s
+v@s
+vTs
+v\s
+vds
+vls
+vts
+v|s
+v t
+v(t
+v0t
+v8t
+v@t
+vHt
+vPt
+vXt
+v`t
+vpt
+v t
+v u
+v4u
+v\u
+v 7
+v`7
+fmod
+v)r
+v.r
+vJr
+vZr
+vnr
+v~r
+v"s
+vBs
+vGs
+vas
+vfs
+v*t
+v>t
+vVt
+vjt
+v.u
+v3u
+vMu
+vRu
+vru
+v*v
+vBv
+atan2
+sinh
+cosh
+tanh
+exp
+.?AVexception@@
+.?AVbad_cast@@
+.?AVbad_typeid@@
+.?AV__non_rtti_object@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.P6AXPAV__ExceptionPtr@@@Z
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+`0g
+N@
+kU'9
+&D(
+HMXB
+9;5
+?q=
+?Zd;
+?3=
+?/L[
+S;uD
+?$#
+;1a
+z?aUY
+D?$?
+*?}
+d|F
+U>c{
+#Tw
+zc%C1
+.:3q
+,%I
+-64OS
+NKeb
+PST
+PDT
+acos
+asin
+atan
+cos
+log
+log10
+?pow
+sin
+sqrt
+tan
+a0g
+ka@
+.?AV?$basic_iostream@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_istream@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_ios@GU?$char_traits@G@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ostream@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV_Locimp@locale@std@@
+.?AVfacet@locale@std@@
+.?AV_Facet_base@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$basic_filebuf@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_streambuf@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_filebuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$_Ref_count_obj@V__ExceptionPtr@@@std@@
+.?AV_Ref_count_base@std@@
+.?AV?$moneypunct@G$00@std@@
+.?AV?$_Mpunct@G@std@@
+.?AUmoney_base@std@@
+.?AV?$moneypunct@G$0A@@std@@
+.?AV?$moneypunct@_W$00@std@@
+.?AV?$_Mpunct@_W@std@@
+.?AV?$moneypunct@_W$0A@@std@@
+.?AV?$moneypunct@D$00@std@@
+.?AV?$_Mpunct@D@std@@
+.?AV?$moneypunct@D$0A@@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AV?$codecvt@GDU_Mbstatet@@@std@@
+.?AV?$ctype@D@std@@
+.?AUctype_base@std@@
+.?AV?$ctype@_W@std@@
+.?AV?$ctype@G@std@@
+.?AV?$codecvt@DDU_Mbstatet@@@std@@
+.?AV?$time_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AUtime_base@std@@
+.?AV?$messages@G@std@@
+.?AUmessages_base@std@@
+.?AV?$numpunct@G@std@@
+.?AV?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$messages@_W@std@@
+.?AV?$numpunct@_W@std@@
+.?AV?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$messages@D@std@@
+.?AV?$numpunct@D@std@@
+.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$time_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$money_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$money_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$collate@G@std@@
+.?AV?$num_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$num_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$time_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$money_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$money_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$collate@_W@std@@
+.?AV?$num_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$num_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$collate@D@std@@
+.?AVbad_alloc@std@@
+.?AVstl_condition_variable_win7@details@Concurrency@@
+.?AVstl_condition_variable_interface@details@Concurrency@@
+.?AVstl_critical_section_win7@details@Concurrency@@
+.?AVstl_critical_section_interface@details@Concurrency@@
+.?AVexception@std@@
+.?AVcodecvt_base@std@@
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AVerror_category@std@@
+.?AVsystem_error@std@@
+.?AV_Generic_error_category@std@@
+.?AV?$codecvt@_UDU_Mbstatet@@@std@@
+.?AV_Iostream_error_category@std@@
+.?AVbad_cast@std@@
+.?AV?$codecvt@_SDU_Mbstatet@@@std@@
+.?AV_System_error@std@@
+.?AVlogic_error@std@@
+.?AVfuture_error@std@@
+.?AV_System_error_category@std@@
+.?AVlength_error@std@@
+.?AVregex_error@std@@
+.?AVout_of_range@std@@
+.?AVoverflow_error@std@@
+.?AVinvalid_argument@std@@
+.?AVbad_function_call@std@@
+.?AVbad_exception@std@@
+.?AV?$_Ref_count_obj_alloc@V__ExceptionPtr@@U?$_StaticAllocator@H@@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+O HEO HnO H
+csm
+A/)t\/)tf/)tp/)tz/)t
+/)t
+/)t
+/)t
+/)t
+uik
+c.V
+ew|>&=4_
+^`i
+W$N
+bVn{
+"BS
+Hik
+Hik
+Hik
+Hik
+Hik
+Hik
+7Iik-IikAIikUIikjHikKIikEHik`Hik
+Hik
+Gik
+Gik
+;Hik
+Hik'Hik
+Iik
+#Iik
+Gik
+Gik
+Gik
+Gik1Hik
+Gik
+_Iik
+HikiIik
+ P"v
+P"v
+!D"S
+D"S P"v
+O}wt
+C:\Windows\SysWOW64
+E"S$
+P"v
+G"S
+B"S
+w8E
+@"S
+C:\Windows\SYSTEM32\kernelbase.dll
+wYN
+O}w<
+C:\Windows\SysWOW64
+wYB"S
+pi-ms-win-core-delayload-l1-1-1.dll
+-l1-1-0.dll
+uB"S
+w8E
+B"S
+w$D
+wMC"S
+w1N"S8
+M"SB
+C:\Windows\SYSTEM32\kernelbase.dll
+yM"Sn
+hS}w6
+jkMM"S
+M"S
+jkp
+pi-ms-win-core-delayload-l1-1-1.dll
+1.dll
+0.dll
+M"S
+wYM
+uk[
+wQL
+uk$
+j!uk
+jk<
+w:Q
+??\C:\Windows\SYSTEM32\RASAPI32.dll
+H"S
+K"S
+K"S
+K"S
+K"S
+/A*t
+*t`
++t
+++t
++tP
+ +t
+%+t
+,+t
+*+t`++tp/+tP-+tP.+t
+9+t0:+t
+*t@,+t
+:+tp;+tP>+t
+?+tp
+.+t
+:+tp;+t
+6+t
++t0
+/+t
++tp
++tP
+ +t
+%+t
+,+t
+*+t`++t`2+tP-+tP.+t
+9+t0:+t
+:+tp;+tP>+t
+?+t@
+.+t
+:+tp;+t
+7+t
++t`
+2+t0
+R+t
+Y+t E+t@I+t
+I+t
+M+t
+S+t
+Q+t
+Q+t`V+t
+T+t
+T+t
+[+t0\+t
+*t`S+t
+\+t
+]+t
+]+t
+_+t`H+t
+pT+t
+\+t
+]+t
+0R+t
+X+t
+D+t@I+t
+I+t
+M+t
+S+t
+Q+t
+Q+t`U+t
+T+t
+T+t
+[+t0\+t
+*t0S+t
+\+t
+]+t
+]+t`^+t
+G+t
+pT+t
+\+t
+]+t
+_+t
+`+t@`+t@`+t@`+t@`+tP`+t``+t
+`+t
+`+t
+a+t
+a+t `+t0`+t
+\SECURITY\LSA_AUTHENTICATION_INITIALIZED
+u0I
+u0I
+,=o
+N6o
+M6o
+N6o0
+7o`
+N6o
+Y;o`
+N6o
+Y;o`
+N6o
+Y;o`
+O6o Z;o`
+8O6o`Z;o`
+XO6oPe<o
+O6o
+g<o
+O6o
+j<o
+O6o
+~<o
+P6o 19o
+39o
+P6o
+99o
+@P6o
+69o
+99o
+hP6op59o`99o
+56o
+W6o
+P(9o
+RW6o
+P(9o
+P6o
+ U6o
+DU6o
+\U6o
+U6o
+U6o
+<76o
+T6o
+T6o
+M6o8M6o
+M6o
+L6o`B;o
+L6o
+(/J
+SAD
+JJn8
+ltL6o0(9o
+M6o
+?6.8L6o0(9o
+M6o
+pT6o
+T6o
+);o
+*;o
+m6o
+m6o
+m6o
+m6o
+m6o
+m6o
+n6oh{6o
+{6o
+{6o
+{6o
+{6o
+{6o
+{6o |6o
+6o2@
+n6o
+o6o
+n6o
+n6o
+(o6o
+Do6o
+ho6o
+o6o
+Hp6o
+6o `
+lp6o!`
+6o"`
+6o#`
+6o$`
+p6o
+$n6oC@
+0n6o
+Ln6o
+o6o
+o6o
+o6o
+o6o
+o6o
+p6o
+p6o
+6o1@
+p6o
+(p6o
+p6o3@
+6o @
+6o0@
+6o!@
+6o#@
+6o,`
+6oK@
+6o$@
+6o%@
+6o&@
+6o(@
+6o)@
+6o)p
+6oG@
+6o'p
+6oF@
+`n6o
+n6o
+6o p
+6o!p
+6o"p
+6o#p
+6o$p
+6o(p
+6o%p
+6o&p
+6o%`
+6o&`
+6o'`
+6o(`
+6o4@
+6o5@
+6o6@
+6o7@
+6o8@
+6o9@
+6o:@
+6o;@
+6o<@
+6o=@
+6o>@
+6o?@
+6o@@
+6oA@
+6oB@
+6o)`
+6o*`
+6oE@
+6o+`
+6oH@
+6oI@
+6oJ@
+p6o+p
+6oL@
+6o,p
+6o0p
+6oN@
+6o1p
+6o2`
+6oP@
+6o-p
+6o.p
+6o/p
+6o:p
+6o-`
+6o.`
+6o/`
+6oO@
+6o2p
+6o0`
+6oQ@
+6o1`
+6oR@
+6o3p
+6oS@
+6o4p
+6oD@
+6o5p
+6o6p
+6oU@
+6o7p
+6o8p
+6oV@
+6oW@
+6o3`
+6o4`
+6oX@
+6oT@
+6o?p
+6o=p
+6o>p
+6o9p
+6o<p
+6oY@
+6o P
+q6oAp
+6o@p
+6o5`
+6o6`
+6o7`
+6oBp
+6oCp
+6o8`
+6o*@
+6jY\
+)`)`*`*`E@E@+`+`
+333f3
+333
+f33
+3f3
+ff3
+f3fff
+33f
+f3f
+3ff
+fff
+0(9o
+@C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe
+xk=o
+O}w
+C:\Windows\SysWOW64
+LBS
+wQHBS 4
+C:\Windows\SYSTEM32\kernelbase.dll
+pi-ms-win-core-processthreads-l1-1-0
+5OBS
+yIBS(
+wYN
+waHBS
+>vQ
+eHBS
+aHBS
+wl"
+$aHBSP
+HBS
+&>vp^>v
+B>v
+HBS
+w`{
+w`{
+KBS
+KBS
+KBS
+KBS
+u`J
+u D
+upN
+u`Q
+u N
+\yp
+*\.ep
+u D
+uP=
+u@1
+u`#
+u D
+uP=
+u@1
+u`#
+(s0
+(s0
+h21
+fu
+Yeu Zeu
+du0
+duP
+ju@0du
+sdu
+eu@
+du`
+eu0
+du@
+ju
+eu0
+eup
+(aw0(aw
+'aw
+'aw0$aw
+#aw
+%awp$aw
+&aw0&aw@'`w
+`w@
+`w`
+(`wP/`wPD`wpE`w`G`w
+P`w
+`w`
+`w@
+`wP
+/`wp:`w`L`w
+`w@
+-`w
+`w`
+)`w
+`w`
+E`w
+A`w
+&`w
+)`w
+*`w
+R`w`
+waw
+`wp
+"`w
+Q`w
+awP~aw
+L`w@L`wp
+|aw
+(Ocu8Ocu
+@OcuTOcu
+`OcutOcu
+Ocu
+Ocu
+Ocu
+Ocu
+Ocu
+Ocu
+5cu
+Ocu
+Ocu
+Ocu
+Ocu
+Ocu
+hu4
+Pcu(Pcu
+hu4
+8Pcu`Pcu
+tPcu
+Pcu
+Pcu
+Pcu
+Pcu
+Pcu
+Afu Afu0 eu
+1Qcu
+,du`
+,du
+du
+iu@
+iu`
+iu0
+Dfu
+Afu
+DfupDfu`DfuPDfuB
+USER32
+windows.hlp
+b5v
+vpF5v
+E5v
+w@W
+u -
+u*-
+u4-
+u>-
+uH-
+uR-
+u\-
+uf-
+up-
+uz-
+ux.
+un.
+ud.
+uZ.
+u2.
+u<.
+uF.
+uP.
+u(,
+BUfu
+Ufu
+UfucUfu
+Pfu
+Pfu
+PfuoPfu_PfuOPfu
+Pfu.Pfu
+Rfu7Rfu
+bfu
+cfu%cfu5cfuEcfuUcfuecfuucfu
+cfu
+cfu
+exp
+a}w
+c}w
+h}w
+h}w
+h}w
+h}w
+h}w
+a}wXf}w
+g}w
+atan2
+i}w
+i}w
+i}w
+i}w
+i}w
+i}w!
+i}w
+i}w
+i}w
+i}w
+i}w
+i}w
+i}w
+i}w
+i}w
+i}w
+i}w
+j}w
+i}w
+j}w
+j}w
+j}w
+ j}w
+(j}w"
+0j}w#
+4j}w$
+8j}w%
+<j}w&
+Dj}wpj}wrj}wrj}wrj}wrj}wrj}wrj}wrj}wrj}wrj}w
+tj}wxj}wxj}wxj}wxj}wxj}wxj}wxj}w
+}w@
+whh
+~}w8}}w
+z}w
+|}w
+|}w
+-)8|}w
+{}w
+vlg
+(/J
+SAD
+JJn8
+X{}w
+z}w
+z}w
+lz}w
+y}w
+vlg
+y}w
+(y}w
+(/J
+SAD
+JJn8
+f+E
+wH4
+x}w
+x}w
+}w
+LV}w8W
+w8W
+wDW
+~wTW
+wTW
+cos
+log
+?pow
+sin
+sqrt
+atan
+tan
+fgz7`
+JJ_fb
+<}/b
+z &
+ymM6
+0-g
+Xsy
+~@uE
+C?q`i
+.}u
+BPK
+M^R
+vyJ"4
+j4D
+J9;
+x,S
+Y40
+)wii
+`Oj
+;P9
+,PQ
+vo%
+9RN
+V"b
+?8v,
+_Oi
+e_>YM
+:w5
+43a
+P"~
+VVM
+qY$5
+VHbv
+C@2
+2jHP
+pv=Y;NHWE]r
+oaP0L
+U3Z
+IQN
+U|<
+~x-'?J
+f~Aq2G
+KKt`PUb
+*L(
+v"H
+jm)W
+:A*aKHR0
+5<+L#
+n#G
+fZZ
+TJLX
+'u}
+xEcC(
+w;c(qJicW
+2]q
+1@(I
+uLO1{
+h)o@
+_x6?VwJ_
+w(h
+w0z
+w8z
+w8z
+wHz
+wPz
+wPz
+whz
+wt;
+w@{
+Zeu
+Zeu
+Zeu
+Zeu
+ .hu
+:iu
+P;iu
+0Kdu
+Zeu
+@*eu
+`Leu
+[eu
+[eu
+[eu
+[eu
+.hu
+@eu
+[eu
+*eu
+`Leu
+`/hu
+`Kdu
+ Aeu
+Heu
+fi.
+e#w
+ecq
+tk0
+tk0
+tk0
+tk0
+tk0
+jk`
+tk`
+tk0
+tk`
+jk`
+tk@
+tk`
+tk`
+tk0
+tk
+jk
+tk0
+tk0
+tk0
+tkP
+jk
+jk0
+jk`
+8kjk
+hkjk
+kjk
+kjk
+kjk
+nkaX
+c.V
+ew|>&=4_
+^`i
+W$N
+bVn{
+"BS
+lkP
+kkPkqk
+blk
+lkP
+lk`
+ilk
+lkPSlk
+ klk
+Mlk
+ 1lk
+4lk
+jka
+jk<
+jkJ
+jkk
+jkV
+jkL
+jk`
+jk(
+jk#
+jkH
+jkw
+jkc
+jk2
+jke
+jku
+jk%
+jkt
+jkR
+jk7
+jk~
+jkt
+jkY
+jk4
+jk\
+jkF
+k@-
+k0"
+jkm
+w9a
+w)a
+4vx
+e*vx
+\Registry\Machine\System\CurrentControlSet\Control\Nls\ExtendedLocale
+S`(
+w9n
+8o>
+8o`&=or
+vYN
+vY#
+vY#
+w 4
+@\
+=9o^
+vY#
+_4v
+P%6v
+wI55v
+P%6v
+45v
+($kqx
+wYI
+SP,
+?v(
+0j.
+wqP
+wYM
+wl;
+w@?
+&v@+
+C:\Windows\system32\G27KKY9019N7T01.DLL
+w8?
+C:\Windows\system32\G27KKY9019N7T01.DLL
+p"zw
+C:\WC:\Windows\system32\G27KKY9019N7T01.DLL
+y4v
+y4v
+`w<
+v}X
+wMX
+@\L
+=9o^
+;w4v
+w4v
+p4v
+~~4v
+&v 7
+P%6v
+p4v
+C:\Windows\system32\G27KKY9019N7T01
+S09
+a,t.F`w`
+`w`
+`w+
+G27KKY9019N7T01
+H!A
+8!A
+,!A
+5Ra
+1'@
+DLL.DLL
+weE
+wQF
+wiC
+NTDLL.
+M32\
+chost.dll
+wqt
+wp46o
+h"=o
+w%v@
+w%v@
+%v@
+@6oh
+%v@
+4Ra@
+%v@
+%v@
+?6o
+#++S++
+%v@
+vL<
+ApphelpDebug
+shimengstate
+ShimDebugLog
+C:\Windows\Explorer.EXE
+ApplicationMonitor DetectorsXP
+v!?
+v+?
+v5?
+v??
+vI?
+vS?
+v]?
+vg?
+vq?
+v{?
+v:A
+vs@
+v}@
+v_@
+vU@
+vK@
+v0@
+v{C
+vqC
+v!C
+v+C
+v5C
+v?C
+vIC
+vSC
+v]C
+vgC
+v"D
+vrD
+vhD
+v^D
+vTD
+vJD
+v@D
+v,D
+v}B
+vCE
+v9E
+v/E
+vME
+v7B
+vUB
+vKB
+vAB
+viB
+vsB
+v-B
+v#B
+|jz
+_0*
+`"0
+Sd^
+=::=::\
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe
+"C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe"
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Locky\Ransomware.Locky\Locky.exe
+Winsta0\Default
+C:\Windows\SYSTEM32\ntdll.dll
+C:\Windows\System32
+C:\Windows\SYSTEM32;C:\Windows\system;C:\Windows;
+C:\Windows\
+u},
+indir%\tracing
+ws\system32\wow64cpu.dll
+F5@U
+C:\Windows\System32\wow64.dll
+C:\Windows\System32\wow64cpu.dll
+\Sessions\1\Windows\ApiPortectionow6
+C:\Windows\System32\wow64win.dll
+\REGISTRY\MACHINE\SOFTWARE\AVAST Software
+\Control\Nls\ExtendedLocale
+ComputerName
+\Software\Microsoft\Ole\FeatureDevelopmentProperties
+\REGISTRY\MACHINE\SOFTWARE\WOW6432Node\AVAST Software
+oft\Windows NT\Rpc
+n\Windows
+ialize
+ution Options
+\Registry\Mach\Regist\REGISTRY\\REGISTRY\MACHINE\S\REGISTRY\MACHINE\SOFTWARE\WOW6432Node\AVAST Software
+Y\MACHINE\SOFTWARE\AVAST Software
+\Control\Nls\ExtendedLocale
+ComputerName
+\Software\Microsoft\Ole\FeatureDevelopmentProperties
+tw4
+Event
+WaitCompletionPacket
+IoCompletion
+TpWorkerFactory
+IRTimer
+WaitCompletionPacket
+IRTimer
+WaitCompletionPacket
+Directory
+\KnownDlls
+Directory
+\KnownDlls32
+Event
+Event
+File
+Event
+WaitCompletionPacket
+IoCompletion
+TpWorkerFactory
+IRTimer
+WaitCompletionPacket
+IRTimer
+WaitCompletionPacket
+Directory
+\KnownDlls32
+Event
+Event
+File
+ALPC Port
+Key
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\Control\Nls\CustomLocale
+IoCompletion
+Directory
+\Sessions\1\BaseNamedObjects
+TpWorkerFactory
+IRTimer
+WaitCompletionPacket
+IRTimer
+WaitCompletionPacket
+Key
+\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+Key
+\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DllNXOptions
+Key
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\Control\Nls\Sorting\Versions
+File
+Key
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\Control\Session Manager
+Semaphore
+Semaphore
+Event
+IoCompletion
+WindowStation
+\Sessions\1\Windows\WindowStations\WinSta0
+Desktop
+\Default
+WindowStation
+\Sessions\1\Windows\WindowStations\WinSta0
+Key
+\REGISTRY\MACHINE
+Event
+Event
+Event
+Event
+Event
+Event
+Mutant
+\BaseNamedObjects\RasPbFile
+Event
+Event
+Event
+Event
+Event
+Event
+Key
+\REGISTRY\MACHINE\SOFTWARE\WOW6432Node\Microsoft\Tracing\Locky_RASAPI32
+Event
+Event
+Event
+Thread
+ALPC Port
+pik
+0=o
+0?o
+P)t
+`)t
+ -t
+0-t
+`-t
+P?v
+ Bv
+`Gv
+pGv
+Pbw

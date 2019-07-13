@@ -1,0 +1,5315 @@
+Strings v2.53 - Search for ANSI and Unicode strings in binary images.
+Copyright (C) 1999-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+MDMP
+%]%
+GenuineIntel
+Pacific Standard Time
+Pacific Daylight Time
+15063.0.x86fre.rs2_release.170317-1834
+dbgcore.i386,10.0.15063.0
+kqw
+nI;e
+cW-
+^0l
+f!$
+sKF
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+C:\Windows\System32\ntdll.dll
+C:\Windows\System32\kernel32.dll
+C:\Windows\System32\KERNELBASE.dll
+C:\Windows\System32\apphelp.dll
+C:\Windows\System32\advapi32.dll
+C:\Windows\System32\msvcrt.dll
+C:\Windows\System32\sechost.dll
+C:\Windows\System32\rpcrt4.dll
+C:\Windows\System32\sspicli.dll
+C:\Windows\System32\CRYPTBASE.dll
+C:\Windows\System32\bcryptPrimitives.dll
+C:\Windows\System32\gdi32.dll
+C:\Windows\System32\gdi32full.dll
+C:\Windows\System32\msvcp_win.dll
+C:\Windows\System32\ucrtbase.dll
+C:\Windows\System32\user32.dll
+C:\Windows\System32\win32u.dll
+C:\Windows\System32\dbghelp.dll
+C:\Windows\System32\clusapi.dll
+C:\Windows\System32\bcrypt.dll
+C:\Windows\System32\dnsapi.dll
+C:\Windows\System32\ws2_32.dll
+C:\Windows\System32\nsi.dll
+C:\Windows\System32\imm32.dll
+C:\Windows\System32\IPHLPAPI.DLL
+ZFL
+#0w#
+90w#
+90w#
+H)P
+90w#
+RSDS
+Bkp
+wntdll.pdb
+RSDS!
+U:9
+wkernel32.pdb
+RSDS
+wkernelbase.pdb
+RSDS;Sh
+apphelp.pdb
+RSDS:=
+advapi32.pdb
+RSDSW
+msvcrt.pdb
+RSDSXy
+sechost.pdb
+RSDS{f
+/:It4?
+wrpcrt4.pdb
+RSDS*Wme
+wsspicli.pdb
+RSDS
+cryptbase.pdb
+RSDS
+ARm
+bcryptprimitives.pdb
+RSDS
+wgdi32.pdb
+RSDS?O
+wgdi32full.pdb
+RSDS''
+Nxp|
+msvcp_win.pdb
+RSDS`|f
+ucrtbase.pdb
+RSDS
+wuser32.pdb
+RSDSL"
+wwin32u.pdb
+RSDS
+dbghelp.pdb
+RSDSl
+x1:*
+ClusApi.pdb
+RSDS
+bcrypt.pdb
+RSDSQ
+dnsapi.pdb
+RSDS
+]vM
+ws2_32.pdb
+RSDS^
+nsi.pdb
+RSDS:
+wimm32.pdb
+RSDSJ
+iphlpapi.pdb
+*** C:\Users\Dummy\Desktop\sysinterals\Procdump\procdump.exe -mp -o 5000
+*** Manual dump
+p6s
+ &w
+ >s
+@>s
+PJv
+"0w
+<90w
+0fs
+Pfs
+`nu
+P:w
+P1s
+07u
+ho5s
+o5s
+\BaseNamedObjects\Global\DESKTOP-AERI7HN
+ w6s
+\??\C:\Windows\system32
+`y6s
+`y6s
+\Device\HarddiskVolume4\Windows
+{6s
+`D(
+#++S++
+ZFL
+F1s
+\<_L
+}3q|
+sY6
+! #!%"'#)$+%-&/'1(3)5*7+9,;-=.?/A0E1I2M3Q4U5Y6]7a8e9i:m;q<u=y>}?
+}1
+n|@%
+-G%y
+r<s
+)`)`*`*`E@E@+`+`
+h@O
+#&w
+V"M
+xYAn
+[Anx]An
+rVAn
+4Cn
+4Cn
+5Cn05Cn
+An`
+AnO
+Bnv
+x Bn
+ Bn/
+x Bn
+ Bn/
+&Bn
+ 'Bn
+&Bn
+ 'Bn
+l(Bn
+(Bn
+(Bn
+(Bn
+(Bn
+(Bn
+(Bn
+(Bn
+)Bn
+ )Bn
+<)Bn
+X)Bn
+x)Bn
+)Bn
+)Bn
+)Bn
+)Bn
+(*Bn
+@*Bn
+P*Bn
+|*Bn
+*Bn
+*Bn
+*Bn
+AnO
++Bn
+AnO
+T+Bn
+p+Bn=
+7Bn
+8Bn
+,8Bn
+H8Bn
+=Bn
+>Bn
+@>Bn
+H>Bn
+h>Bn
+>Bn
+>Bn
+>Bn
+AnO
+?Bn
+4?Bn
+L?Bn
+h?BnV
+BBn
+AnO
+hBBn
+BBn
+BBn
+BBnX
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+.?AVbad_exception@std@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+.?AVbad_cast@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVExceptionMsg@ClusRtl@@
+.?AVResourceControlAsyncFunctor@@
+.?AVResourceControlAsUserAsyncFunctor@@
+.?AVNodeResourceControlAsyncFunctor@@
+.?AVNodeResourceControlAsUserAsyncFunctor@@
+.?AVResourceTypeControlAsyncFunctor@@
+.?AVResourceTypeControlAsUserAsyncFunctor@@
+.?AVNodeResourceTypeControlAsyncFunctor@@
+.?AVNodeResourceTypeControlAsUserAsyncFunctor@@
+.?AV?$ReconnectAsyncBase@K@@
+.?AV?$_Ref_count_obj@V?$vector@EV?$allocator@E@std@@@std@@@std@@
+.?AV_Ref_count_base@std@@
+.?AUBadFormatException@mscs@@
+.?AU?$IValueT@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@cxl@@
+.?AU?$IValueT@K@cxl@@
+.?AU?$IValueT@V?$vector@EV?$allocator@E@std@@@std@@@cxl@@
+.?AUIValue@cxl@@
+.?AVException@cxl@@
+.?AV?$ArgumentWriters@Vexception@std@@@cxl@@
+.?AV?$ArgumentWriters@Vbad_alloc@std@@@cxl@@
+.?AV?$ArgumentWriters@Vsystem_error@std@@@cxl@@
+.?AVsystem_error@std@@
+.?AV?$ArgumentWriters@J@cxl@@
+.?AVCAtlException@ATL@@
+.?AV?$ArgumentWriters@VException@cxl@@@cxl@@
+.?AUArgumentWriter@cxl@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.?AVout_of_range@std@@
+.?AVbad_function_call@std@@
+.?AV?$_Func_impl@V<lambda_cc82eb50f957cf49f922e865007139f7>@@V?$allocator@H@std@@PAUCLUSPROP_VALUE@@II@std@@
+.?AV?$_Func_impl@V<lambda_4806897813419ce5b86ed03f53bf34a5>@@V?$allocator@H@std@@PAUCLUSPROP_VALUE@@II@std@@
+.?AV?$_Func_impl@V<lambda_3eede5d7fa33464ce7b1c52fa181a1b1>@@V?$allocator@H@std@@PAUCLUSPROP_VALUE@@II@std@@
+.?AV?$_Func_impl@V<lambda_7ee0f97af27299be55301d7e88e77490>@@V?$allocator@H@std@@XPAUCLUSPROP_BINARY@@@std@@
+.?AV?$_Func_impl@V<lambda_c2e9109f69faa4649a4fea6772169fd0>@@V?$allocator@H@std@@XPAUCLUSPROP_SZ@@@std@@
+.?AV?$_Func_impl@V<lambda_f9378ea6f40199b6738c026dddc571ea>@@V?$allocator@H@std@@XPAUCLUSPROP_DWORD@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@V?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@std@@UCLUSPROP_SZ@@@ValueList@cxl@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@V?$vector@EV?$allocator@E@std@@@std@@UCLUSPROP_BINARY@@@ValueList@cxl@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@UCLUSPROP_SZ@@@ValueList@cxl@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@U_FILETIME@@UCLUSPROP_FILETIME@@@ValueList@cxl@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@T_LARGE_INTEGER@@UCLUSPROP_LARGE_INTEGER@@@ValueList@cxl@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@T_ULARGE_INTEGER@@UCLUSPROP_ULARGE_INTEGER@@@ValueList@cxl@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@GUCLUSPROP_WORD@@@ValueList@cxl@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@JUCLUSPROP_LONG@@@ValueList@cxl@@@std@@
+.?AV?$_Ref_count_obj@V?$ValueElement@KUCLUSPROP_DWORD@@@ValueList@cxl@@@std@@
+.?AV?$_Func_base@XPAUCLUSPROP_BINARY@@@std@@
+.?AV?$_Func_base@XPAUCLUSPROP_SZ@@@std@@
+.?AV?$_Func_base@XPAUCLUSPROP_DWORD@@@std@@
+.?AV?$_Func_base@PAUCLUSPROP_VALUE@@II@std@@
+.?AV?$ValueItem@V?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@std@@@ValueList@cxl@@
+.?AU?$IValueT@V?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@std@@@cxl@@
+.?AV?$ValueElement@V?$vector@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@V?$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@std@@UCLUSPROP_SZ@@@ValueList@cxl@@
+.?AV?$ValueItem@V?$vector@EV?$allocator@E@std@@@std@@@ValueList@cxl@@
+.?AV?$ValueElement@V?$vector@EV?$allocator@E@std@@@std@@UCLUSPROP_BINARY@@@ValueList@cxl@@
+.?AV?$ValueItem@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@ValueList@cxl@@
+.?AV?$ValueElement@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@UCLUSPROP_SZ@@@ValueList@cxl@@
+.?AV?$ValueItem@U_FILETIME@@@ValueList@cxl@@
+.?AU?$IValueT@U_FILETIME@@@cxl@@
+.?AV?$ValueElement@U_FILETIME@@UCLUSPROP_FILETIME@@@ValueList@cxl@@
+.?AV?$ValueItem@T_LARGE_INTEGER@@@ValueList@cxl@@
+.?AV?$ValueElement@T_LARGE_INTEGER@@UCLUSPROP_LARGE_INTEGER@@@ValueList@cxl@@
+.?AV?$ValueItem@T_ULARGE_INTEGER@@@ValueList@cxl@@
+.?AV?$ValueElement@T_ULARGE_INTEGER@@UCLUSPROP_ULARGE_INTEGER@@@ValueList@cxl@@
+.?AV?$ValueItem@G@ValueList@cxl@@
+.?AU?$IValueT@G@cxl@@
+.?AV?$ValueElement@GUCLUSPROP_WORD@@@ValueList@cxl@@
+.?AV?$ValueItem@J@ValueList@cxl@@
+.?AU?$IValueT@J@cxl@@
+.?AV?$ValueElement@JUCLUSPROP_LONG@@@ValueList@cxl@@
+.?AV?$ValueItem@K@ValueList@cxl@@
+.?AV?$ValueElement@KUCLUSPROP_DWORD@@@ValueList@cxl@@
+.?AV<lambda_4806897813419ce5b86ed03f53bf34a5>@@
+.?AV<lambda_cc82eb50f957cf49f922e865007139f7>@@
+.?AV<lambda_3eede5d7fa33464ce7b1c52fa181a1b1>@@
+.?AV<lambda_f9378ea6f40199b6738c026dddc571ea>@@
+.?AV<lambda_c2e9109f69faa4649a4fea6772169fd0>@@
+.?AV<lambda_7ee0f97af27299be55301d7e88e77490>@@
+.?AV?$ArgumentWriters@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@cxl@@
+.?AVRefCounted@cxl@@
+.?AU?$IValueT@T_ULARGE_INTEGER@@@cxl@@
+.?AU?$IValueT@T_LARGE_INTEGER@@@cxl@@
+.?AV?$ArgumentWriters@EEEEEE@cxl@@
+.?AV?$ArgumentWriters@KGGEE@cxl@@
+.?AV?$ArgumentWriters@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@I@cxl@@
+.?AV?$ArgumentWriters@W4_MI_Result@@@cxl@@
+.?AV?$ArgumentWriters@H@cxl@@
+.?AV?$ArgumentWriters@JVtype_info@@@cxl@@
+.?AV?$ArgumentWriters@Verror_code@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@cxl@@
+.?AV?$ArgumentWriters@Verror_category@std@@HV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@2@@cxl@@
+.?AV?$ArgumentWriters@VErrorCode@cxl@@@cxl@@
+.?AV?$ArgumentWriters@VErrorCode@cxl@@V12@@cxl@@
+.?AV?$ArgumentWriters@$$BY0BA@D$$BY0CD@DH$$BY0BF@DK@cxl@@
+.?AVTextWriter@cxl@@
+.?AVStringWriter@cxl@@
+.?AV?$ExceptionWithArg@H@cxl@@
+.?AVFixedBufferWriter@cxl@@
+.?AV?$ExceptionWithArg@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@cxl@@
+.?AV?$ArgumentWriters@$$BY02D$$BY0BP@DH$$BY0BC@DK@cxl@@
+.?AV?$_Ref_count_obj@$$CBV?$vector@EV?$allocator@E@std@@@std@@@std@@
+.?AV?$ArgumentWriters@$$BY0DA@D$$BY0BP@DH$$BY0CH@DK@cxl@@
+ZhX
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789ABCDEF
+0123456789abcdef
+4096
+ZhX
+ZhX
+ZhX
+ZhX
+ZhX
+ZhX
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+An,
+Jn,
+hPP
+?0EP
+?XDP
+?(GP
+?@GP
+ulIn
+lIn
+!mIn<mIn
+InQ
+lIn(lIn
+lIn
+In~
+Int
+Inj
+In`
+InV
+InL
+InB
+In8
+In.
+In$
+kIn
+lIn
+kIn
+kIn
+lIn
+lIn
+lIn
+kIn
+kIn
+kIn
+6kIn
+kInQkIn
+kIn
+klIn
+kInalIn[kIn
+vkInWlIn
+Ine
+lIn
+In2lInMlIn
+n Z
+n`Z
+nPe
+n 1
+np5
+n`9
+0DO
+n8M
+n`B
+(/J
+SAD
+JJn8
+ltL
+n0(
+?6.8L
+n0(
+nh{
+n |
+n2@
+n `
+n!`
+n"`
+n#`
+n$`
+nC@
+n1@
+n3@
+n @
+n0@
+n!@
+n#@
+n,`
+nK@
+n$@
+n%@
+n&@
+n(@
+n)@
+n)p
+nG@
+n'p
+nF@
+n p
+n!p
+n"p
+n#p
+n$p
+n(p
+n%p
+n&p
+n%`
+n&`
+n'`
+n(`
+n4@
+n5@
+n6@
+n7@
+n8@
+n9@
+n:@
+n;@
+n<@
+n=@
+n>@
+n?@
+n@@
+nA@
+nB@
+n)`
+n*`
+nE@
+n+`
+nH@
+nI@
+nJ@
+n+p
+nL@
+n,p
+n0p
+nN@
+n1p
+n2`
+nP@
+n-p
+n.p
+n/p
+n:p
+n-`
+n.`
+n/`
+nO@
+n2p
+n0`
+nQ@
+n1`
+nR@
+n3p
+nS@
+n4p
+nD@
+n5p
+n6p
+nU@
+n7p
+n8p
+nV@
+nW@
+n3`
+n4`
+nX@
+nT@
+n?p
+n=p
+n>p
+n9p
+n<p
+nY@
+n P
+nAp
+n@p
+n5`
+n6`
+n7`
+nBp
+nCp
+n8`
+n*@
+)`)`*`*`E@E@+`+`
+333f3
+333
+f33
+3f3
+ff3
+f3fff
+33f
+f3f
+3ff
+fff
+ 7O
+`IO
+@C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBR
+wipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+hXO
+HeO
+sPd
+s@d
+s d
+s@d
+s@d
+sPd
+s0d
+s@d
+c.V
+ew|>&=4_
+^`i
+W$N
+bVn{
+"BS
+sg/
+sQ.
+sv.
+7u`
+7up
+&7u
+7up
+s./
+s8/
+sS/
+s".
+s,.
+PHu
+SVW
+f;U
+f;U
+f;U
+|!B
+|*B
+f;E
+f;E
+_^[
+Y*8
+Fzs}}
+=v}}
+Bv}}
+Cv}}
+@v}}
+Av}}
+Fv}}
+Gv}}
+Dv}}
+Ev}}
+Jv}}
+Kv}}
+Hv}}
+Iv}}
+Nv}}
+Ov}}
+Tv}}
+Uv}}
+Zv}}
+[v}}
+JCc
+5KCc
+Lv}}
+Mv}}
+Rv}}
+Sv}}
+Pv}}
+Qv}}
+Vv}}
+Wv}}
+=v}}
+}RD
+tv}}
+zv}}
+vv}}
+zv}}
+vv}}
+tv}}
+(,/
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+[Jb
+[Jb
+[Jb
+[Jb
+[Jb
+[Jb
+[Jb
+[Jb
+[Jb
+8u
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+>-l
+<-l
+`AO
+x?O
+u\w
+xy}
+u0g
+vlg
+(/J
+SAD
+JJn8
+!sg
+u\w
+(/J
+SAD
+JJn8
+f+E
+o||
+vlg
+zzG
+u\w
+(/J
+SAD
+JJn8
+f+E
+vlg
+R2]
+R7M
+upy
+u\w
+4do
+VDx
+u`|
+u\w
+u\w
+fZ@U8
+vlg
+`Z~J[
+(/J
+SAD
+JJn8
+f+E
+u\w
+vlg
+(/J
+SAD
+JJn8
+G+J
+P*B
+u@:
+up&
+[mrm_res_map__]
+[mrm_res_map2_]
+[mrm_res_map3_]
+[mrm_res_link]
+[mrm_env_map]
+[mrm_decn_info]
+[mrm_pri_desc ]
+[mrm_pridescex]
+[mrm_rev_map]
+c.V
+ew|>&=4_
+^`i
+W$N
+bVn{
+"BS
+`Ck
+Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+dV_
+c$_
++w N/w
+0?O
+uH9
+u&9
+u*1
+u41
+u>1
+uH1
+uR1
+u\1
+uf1
+up1
+uz1
+ux0
+u%N
+u07
+u&7
+uh6
+ur6
+u|6
+uPx
+vpk
+v k
+v j
+v`l
+v@R
+u`{
+v :
+u0:
+u:8
+uD7
+u_7
+ui7
+us7
+uN8
+u}7
+uT2
+u&:
+ `fs
+@.w
+`fs
+t0w4
+~-wL
+ 3.w
+8y-w(
+y-w
+=L `fst
+Ut-w
+t-w
+,w<
+O)w<
+,w
+,w&
+{C:\Windows\SysWOW64
+p-w
+;q-w
+..w
+`fs
+@_P
+O)w
+,w&
+{C:\Windows\SysWOW64
+ z:w
+,Q/w
+=LxBfs4
+,wH
+h!P
+`9O
+H-wXGP
+{C:\Windows
+PCP
+,w0
+j.-w
+ z:w
+:w,
+,Q/w
+~--w
+,w@_P
+S1w
+,wJ
+@_P
+`9O
+.dll
+XGP
+XGP
+{C:\Windows\SYSTEM32\kernelbase.dll
+`{:w
+.wx
+pi-ms-win-core-processthreads-l1-1-0
+@_P
+U1w
+=L@_P
+)w[
+ 3P
+uf+w
+U/wH1O
+H1O
+-wl"0w
+0wl
+=LP
+ 3P
+{:w@_P
+t+w
+up^
+,wF
+@_P
+ 3P
+{:w
+{:w`{:w
+,w`{:w
+90w
+,w(
+TB(
+0w\
+}X/w(
+MX/w
+)c1w
+,w(
+\REGISTR
+05s
+E5s
+05s
+DOJ
+w2s
+'u2s
+N2s
+o2s
+o f
+nm2s
+n2s
+(E1s
+eeI
+`1s
+s3s
+s3s
+ZFL
+F1s
+cm2s
+[qC
+YpC
+3/{p
+A0w
+3++S
+[ f
+f f
+d5s
+by6s
+=2s
+] f
+c[ f
+$3s
+k2s
+\ f
+F1s
+Tn2s
+j2s
+ph5s
+u3s
+F1s
+\Device\HarddiskVolume4\Windows\SysWOW64\advapi3jl
+\Device\HarddiskVolume4\Windows\SysWOW64\advapi3jl
+\Device\HarddiskVolume4\Windows\SysWOW64\advapi3jl
+\Device\HarddiskVolume4\Windows\SysWOW64\advapi3jl
+\Device\HarddiskVolume4\Windows\SysWOW64\advapi3jl
+\Device\HarddiskVolume4\Windows\SysWOW64\advapi3z|
+\Device\HarddiskVolume4\Windows\SysWOW64\bcryptprimitivez|
+\Device\HarddiskVolume4\Windows\SysWOW64\bcryptprimitivez|
+\Device\HarddiskVolume4\Windows\SysWOW64\bcryptprimitivez|
+\Device\HarddiskVolume4\Windows\SysWOW64\bcryptprimitivedf
+\Device\HarddiskVolume4\Windows\SysWOW64df
+\Device\HarddiskVolume4\Windows\SysWOW64\ntdll.ddf
+\Device\HarddiskVolume4\Windows\SysWOW64df
+\Device\HarddiskVolume4\Windows\SysWOW64\ntdll.dll
+nu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2
+2727D571BBF9376F54F_Inka
+`o
+nung vom 27.05.2013 .exe
+uyV.w
+3_L
+S_ f
+ulN
+0w#
+`D(
+Po5s
+C:\Windows\SysWOW64\ntdll.dll
+w64.dll
+pdQ
+sI f
+pdQ
+U+I
+p(J
+PdQ
+A0w
+ZFL
+#0w#
+(u&
+(u&
+(u&
+(u&
+(u&
+(u&
+(u&
+(u&
+(u&
+(u$
+(u$
+(u$
+(u$
+(u$
+(u$
+(u$
+(uX
+(ux
+(u8
+.?AVbad_alloc@std@@
+.?AVbad_exception@std@@
+.?AVexception@std@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+.?AVbad_cast@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVtype_info@@
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+
+
+PST
+PDT
+PDT
+PST
+C;u
+8<;u@<;u0<;uH<;u8<;u@<;u0<;uH<;u
+<;u
+<;u
+<;u
+<;u
+<;u
+<;u
+<;u
+<;uP
+FuP
+Fuh
+Fuh
+S;u
+ Fu
+P;u
+P;u
+P;u
+P;u
+P;u
+!Fu
+Q;uPV;u
+W;u
+(Fu
+Q;u
+S;u,E;u
+Y;u
+Y;u
+^;u
+X;u
+^;u
+!Fu
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+`;u
+ZAu
+!Fu
+!Fu
+$"Fu
+"Fu
+\"Fu
+D"Fu
+"Fu
+|"Fu
+"Fu
+"Fu
+#Fu
+"Fu
+<#Fu
+$#Fu
+t#Fu
+\#Fu
+#Fu
+#Fu
+#Fu
+#Fu
+$Fu
+$Fu
+T$Fu
+<$Fu
+$Fu
+t$Fu
+$Fu
+$Fu
+!Fu
+"Fu
+D"Fu
+|"Fu
+"Fu
+"Fu
+$#Fu
+\#Fu
+#Fu
+#Fu
+$Fu
+<$Fu
+t$Fu
+$Fu
+`MFu
+`MFu
+(Fu
+ r;u$r;u(r;u,r;u0r;u4r;u8r;u<r;uDr;uLr;uTr;u`r;ulr;utr;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+r;u
+s;u
+s;u
+s;u
+s;u s;u,s;u@s;u
+Ls;uTs;u\s;uds;uls;uts;u|s;u
+s;u
+s;u
+s;u
+s;u
+s;u
+s;u
+s;u
+t;u
+t;u
+t;u
+t;u t;u(t;u0t;u8t;u@t;uHt;uPt;uXt;u`t;upt;u
+t;u
+t;u t;u
+t;u
+t;u
+t;u
+t;u
+t;u
+t;u
+t;u
+u;u
+u;u u;u4u;u\u;u 7Fu`7Fu
+fmod
+'Du6
+Du6
+Du6
+Du6
+Du6
+Du6
+Du6
+qDu
+qDu
+qDu
+qDu
+qDu
+qDu
+qDu
+qDu
+qDu
+rDu
+rDu)rDu.rDuJrDuZrDunrDu~rDu
+rDu
+rDu
+rDu
+rDu
+rDu
+rDu
+sDu"sDuBsDuGsDuasDufsDu
+sDu
+sDu
+sDu
+sDu
+sDu
+sDu
+tDu
+tDu*tDu>tDuVtDujtDu
+tDu
+tDu
+tDu
+tDu
+tDu
+tDu
+tDu
+uDu.uDu3uDuMuDuRuDuruDu
+uDu
+uDu
+uDu
+uDu
+uDu
+uDu
+uDu
+vDu*vDuBvDu
+atan2
+DuX
+Du5
+Du5
+Du5
+Du5
+DuX
+DuX
+Du6
+sinh
+cosh
+Du!
+tanh
+DuA
+exp
+=u!
+=u
+=u"
+=u#
+=u$
+=u%
+=u&
+.?AVexception@@
+.?AVbad_cast@@
+.?AVbad_typeid@@
+.?AV__non_rtti_object@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.P6AXPAV__ExceptionPtr@@@Z
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+N@
+kU'9
+&D(
+HMXB
+9;5
+?q=
+?Zd;
+?3=
+?/L[
+S;uD
+?$#
+;1a
+z?aUY
+D?$?
+*?}
+d|F
+U>c{
+#Tw
+zc%C1
+.:3q
+,%I
+-64OS
+NKeb
+PST
+PDT
+acos
+asin
+atan
+cos
+log
+log10
+?pow
+sin
+sqrt
+tan
+"6+
+ 6+
+0A<s
+(3(
+(3(
+|:w(
+y:w
+{:w
+@f:w
+S:w
+{:w
+{:w
+hb(
+`D(
+p1s
+`D(
+p1s
+`D(
+p1s
+`D(
+p1s
+ 'P
+x05s
+_lf
+[lf
+d5s
+x05s
+@_P
+s^lf
+Zlf
+d5s
+c5s
+42s
+ #2s
+$2s
+`N2s
+cj2s
+Y2s
+Plf
+cm2s
+xDP
+\??\C:\Windows\SysWOW64\bcrypt.dll
+64\bcrypt.dll
+2\DNS\??\C:\Windows\S
+Slf
+90w#
+hd5s
+Mlf
+90w#
+P7u
+@.w
+P7u
+t0wl
+~-w
+ 3.w
+8y-w`
+y-w
+P7u
+Ut-w
+t-w
+,wt
+O)wt
+,wX
+,w&
+C:\Windows\SysWOW64
+p-wL
+;q-w
+..w
+P7u
+ z:w
+,Q/w
+@7u
+,w0aP
+,w@
+0aP
+`9O
+ 3.w
+8y-w(
+y-w
+C:\Windows\SYSTEM32\kernelbase.dll
+,w<
+O)w<
+,w
+,w&
+C:\Windows\SysWOW64
+*.w
+U1w
+*.w
+pi-ms-win-core-synch-l1-2-0.dll
+2-0.dll
+u2-w
+30wu
+`{:w0aP
+-w4
+.wx
+0aP
+0aP
+$`P
+ z:w
+:w$`P
+,Q/w
+,w@_P
+,wH
+@_P
+$`P
+`9O
+H-w
+C:\Windows\SYSTEM32\kernelbase.dll
+B.w
+B.w
+,w,
+hS)w6
+*.w
+*.wl
+pi-ms-win-core-delayload-l1-1-1.dll
+dll
+dll
+0wP
+0w`{:wx
+/-wh
+`{:w@_P
+.wx
+@_P
+ 3P
+@_P
+@_P
+ 3P
+ 3P
+@_P
+v@_P
+0w:Q.w
+@_P
+IQ.wp
+O.w
+@_P
+H.w@_P
+J.w
+{:w@_P
+K.w8
+??\C:\Windows\SYSTEM32\DNSAPI.dll
+@_P
+`{:w
+{:w
+0wT
+P'P
+P'P
+90w
+,w(
+ 'P
+TB(
+H)P
+0w\
+}X/w(
+MX/w
+)c1w
+,w(
+rh$
+rt#
+rP}
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+.?AVruntime_error@std@@
+.?AVbad_alloc@std@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.?AVout_of_range@std@@
+.?AVDbsArm64StackUnwindHelperException@@
+C:\Users\Dummy\AppData\Local\Temp\
+DBGHELP:
+DBv  Bv
+Avp
+?v`
+@vP$@v
+{Av`
+Gv@
+"Bv
+,7v
+.?AVbad_alloc@std@@
+,7v
+.?AVexception@std@@
+,7v
+.?AVbad_array_new_length@std@@
+,7v
+.?AVtype_info@@
+,7v
+.?AVException@@
+,7v
+.?AVFileFormatException@@
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+OPENGL32
+FNOT
+)7v
+\Jv
+\Jv \Jv \Jv(\Jv(\Jv
+B8u
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+0</
+_B*
+h:w
+cBB
+0</
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+__COMPAT_LAYER=DetectorsWin8
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+h /
+8!/
+`!/
+0"/
+P"/
+(#/
+P#/
+p#/
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+__COMPAT_LAYER=DetectorsWin8
+::Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: ABCDEFGHIJKLMNOPQRSTUVWXYZ your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+:Hello, world!  :
+:Hello, world!:
+ is a string chars long
+Enter your family name: Enter your age: Enter a hexadecimal number: Hexadecimal: ff
+Octal: 377
+Unsigned value: 150
+Just print the percentage sign %
+:Hello, world!:
+:  Hello, world!:
+:Hello, wor:
+nmA>
+s\/
+sf/
+sp/
+sz/
+v`J
+v D
+vpN
+v`Q
+v N
+\yp
+*\.ep
+v D
+vP=
+v@1
+v`#
+v D
+vP=
+v@1
+v`#
+ZADZ
+x05s
+_`f
+[`f
+d5s
+x05s
+05s
+s^`f
+Z`f
+d5s
+D5s
+05s
+4b2s
+F1s
+cj2s
+Y2s
+P`f
+cm2s
+\??\C:\Windows\SysWOW64\dbghelp.dll
+4\dbghelp.dll
+\??\C:\Windows\SYSTEM32\dbghelp.dll
+S`f
+90w#
+hd5s
+M`f
+90w#
+04J
+Lq|
+04J
+ /J
+PVU
+PVU
+_0*
+`"0
+Sd^
+=::=::\
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+P%J
+F(J
+f(J
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+"C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe"
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+Winsta0\Default
+C:\Windows\SYSTEM32\ntdll.dll
+C:\Windows\System32
+C:\Windows\SYSTEM32;C:\Windows\system;C:\Windows;
+p(J
+p)J
+0,J
+0,J
+0,J
+C:\Windows\
+\Sessions\1\Windows\ApiPortection4B9
+04J
+BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+32\
+04J
+p)J
+`q3s
+`1J
+F5@U
+p3J
+8*J
+p0J
+p3J
+C:\Windows\System32\wow64.dll
+ /J
+@1s
+H1s
+A1s
+C:\Windows\system32\wow64cpu.dll
+`4J
+p0J
+9*J
+ /J
+C:\Windows\System32\wow64win.dll
+ 5J
+ 5J
+05J
+05J
+@5J
+@5J
+P5J
+P5J
+`5J
+`5J
+p5J
+p5J
+ 6J
+ 6J
+06J
+06J
+@6J
+@6J
+P6J
+P6J
+`6J
+`6J
+p6J
+p6J
+ 7J
+ 7J
+07J
+07J
+@7J
+@7J
+P7J
+P7J
+`7J
+`7J
+p7J
+p7J
+ 8J
+ 8J
+08J
+08J
+@8J
+@8J
+P8J
+P8J
+`8J
+`8J
+p8J
+p8J
+ 9J
+ 9J
+09J
+09J
+@9J
+@9J
+P9J
+P9J
+`9J
+`9J
+p9J
+p9J
+ :J
+ :J
+0:J
+0:J
+@:J
+@:J
+P:J
+P:J
+`:J
+`:J
+p:J
+p:J
+ ;J
+ ;J
+0;J
+0;J
+@;J
+@;J
+P;J
+P;J
+`;J
+`;J
+p;J
+p;J
+ <J
+ <J
+0<J
+0<J
+@<J
+@<J
+P<J
+P<J
+`<J
+`<J
+p<J
+p<J
+P>J
+x>J
+P*J
+`=J
+`=J
+C:\Windows\System32\wow64cpu.dll
+\Device\HarddiskVolume4\Windows\SysWOW64\ws2_32.dll
+o\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+ISTRY\MACHINE\Software\WOW6432Node\Microsoft
+CurrentVersion\Windows
+ialize
+ution Options
+\Registry\M
+EGISTRY\MACHINE\Software\WOW6432Node\Microso
+T\CurrentVersion\Windows
+e\SYSTEM\CurrentControlSet\Control\Session M
+alize
+figuration
+rol Panel\Desktop
+figur
+v -
+v*-
+v4-
+v>-
+vH-
+vR-
+v\-
+vf-
+vp-
+vz-
+vx.
+vn.
+vd.
+vZ.
+v2.
+v<.
+vF.
+vP.
+v(,
+8\P
+uXN
+Sc10
+lsth
+ulstc$d
+u$d
+u,d
+u,d
+lstpXd
+uXd
+u`d
+u`d
+_B*
+ h:w
+pO;u
+ Fu
+0*/w
+csm
+monProg\
+F;u
+File[
+?urogr
+Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+__COMPAT_LAYER=DetectorsWin8
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+__COMPAT_LAYER=DetectorsWin8
+&Fu(&FuH&Fuh&Fu
+&Fu
+&Fu
+&Fu
+&Fu
+'Fu('FuH'Fuh'Fu
+'Fu
+'Fu
+'Fu
+'Fu
+(Fu((FuH(Fuh(Fu
+(WP
+s`+
+sp/
+sP-
+sP.
+s0:
+s@,
+sp;
+sP>
+sp;
+s`+
+s`2
+sP-
+sP.
+s0:
+sp;
+sP>
+sp;
+s E
+s@I
+s`V
+s0\
+s`S
+s`H
+s@I
+s`U
+s0\
+s0S
+s`^
+s@`
+s@`
+s@`
+s@`
+sP`
+s``
+s `
+s0`
+\SECURITY\LSA_AUTHENTICATION_INITIALIZED
+@hP
+`h:w
+@h:w
+(DP
+v0I
+v0I
+px]
+.ipv6-literal.net
+@QP
+s n
+s`\
+.?AV?$basic_iostream@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_istream@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_ios@GU?$char_traits@G@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ostream@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV_Locimp@locale@std@@
+.?AVfacet@locale@std@@
+.?AV_Facet_base@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$basic_filebuf@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_streambuf@GU?$char_traits@G@std@@@std@@
+.?AV?$basic_filebuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$_Ref_count_obj@V__ExceptionPtr@@@std@@
+.?AV_Ref_count_base@std@@
+.?AV?$moneypunct@G$00@std@@
+.?AV?$_Mpunct@G@std@@
+.?AUmoney_base@std@@
+.?AV?$moneypunct@G$0A@@std@@
+.?AV?$moneypunct@_W$00@std@@
+.?AV?$_Mpunct@_W@std@@
+.?AV?$moneypunct@_W$0A@@std@@
+.?AV?$moneypunct@D$00@std@@
+.?AV?$_Mpunct@D@std@@
+.?AV?$moneypunct@D$0A@@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AV?$codecvt@GDU_Mbstatet@@@std@@
+.?AV?$ctype@D@std@@
+.?AUctype_base@std@@
+.?AV?$ctype@_W@std@@
+.?AV?$ctype@G@std@@
+.?AV?$codecvt@DDU_Mbstatet@@@std@@
+.?AV?$time_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AUtime_base@std@@
+.?AV?$messages@G@std@@
+.?AUmessages_base@std@@
+.?AV?$numpunct@G@std@@
+.?AV?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$messages@_W@std@@
+.?AV?$numpunct@_W@std@@
+.?AV?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$messages@D@std@@
+.?AV?$numpunct@D@std@@
+.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$time_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$money_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$money_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$collate@G@std@@
+.?AV?$num_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$num_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$time_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$money_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$money_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$collate@_W@std@@
+.?AV?$num_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$num_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$collate@D@std@@
+.?AVbad_alloc@std@@
+.?AVstl_condition_variable_win7@details@Concurrency@@
+.?AVstl_condition_variable_interface@details@Concurrency@@
+.?AVstl_critical_section_win7@details@Concurrency@@
+.?AVstl_critical_section_interface@details@Concurrency@@
+.?AVexception@std@@
+.?AVcodecvt_base@std@@
+.?AVtype_info@@
+.?AVbad_array_new_length@std@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AVerror_category@std@@
+.?AVsystem_error@std@@
+.?AV_Generic_error_category@std@@
+.?AV?$codecvt@_UDU_Mbstatet@@@std@@
+.?AV_Iostream_error_category@std@@
+.?AVbad_cast@std@@
+.?AV?$codecvt@_SDU_Mbstatet@@@std@@
+.?AV_System_error@std@@
+.?AVlogic_error@std@@
+.?AVfuture_error@std@@
+.?AV_System_error_category@std@@
+.?AVlength_error@std@@
+.?AVregex_error@std@@
+.?AVout_of_range@std@@
+.?AVoverflow_error@std@@
+.?AVinvalid_argument@std@@
+.?AVbad_function_call@std@@
+.?AVbad_exception@std@@
+.?AV?$_Ref_count_obj_alloc@V__ExceptionPtr@@U?$_StaticAllocator@H@@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+(u
+(uT
+(uP
+(uX
+(uT
+(uP
+(uX
+csm
+6fs
+6fs
+!es
+`[P
+x05s
+_gf
+[gf
+_gf
+x05s
+0aP
+s^gf
+Zgf
+d5s
+c5s
+42s
+4b2s
+cj2s
+Y2s
+Pgf
+cm2s
+B\?\
+\??\C:\Windows\SysWOW64\NSI.dll
+nownDlls32\NSI\??\C:\Windows\System32\NSI.dll
+Sgf
+H)P
+0w#
+hd5s
+Mgf
+H)P
+90w#
+7zP
+ kO
+_B*
+h:w
+ kO
+XGP
+`)P
+0/P
+PBP
+ -P
+01P
+MSVCIRT.dll
+MSVCRT20.dll
+MSVCRT40.dll
+FWCWSP64.dll
+clr.dll
+KERNEL32.DLL
+BLACKBOX.DLL
+hPP
++wD
+T:w
+_0*
+`"0
+c6w
+`AO
+Sd^
+OLE32.dll
+OLEAUT32.dll
+MFC42ENU.DLL
+OLEAUT32.dll
+MSVCRT.dll
+MSVCIRT.dll
+MSVCRT20.dll
+MSVCRT40.dll
+MFC40.dll
+MFC42.dll
+MFCSUBS.dll
+Osy
+MFCN42D.DLL
+MFCD42D.DLL
+MFCO42D.DLL
+MFC42D.DLL
+KERNEL32.DLL
+BLACKBOX.DLL
+FWCWSP.dll
+FWCWSP64.dll
+wpfredwnd_v0400.dll
+QTIM32.DLL
+MFC42ENU.DLL
+KERNELBASE.DLL
+MSVCRT.dll
+?aT
+s\Du
+nter
+User
+sysi
+C:\U
+op\s
+ssMo
+H2P
+ummy
+\Mic
+PCP
+ytho
+ Fil
+ogra
+C:\U
+ta\L
+thon
+s\;C
+pDat
+\Pyt
+\Use
+\Loc
+dows
+mmy\
+npm
+E;.B
+8{.
+MFC42ENU.DLL
+5{P
+KERNEL32.DLL
+2{R
+KERNELBASE.DLL
+/{H
+MSVCRT20.dll
+${E
+BLACKBOX.DLL
+!{e
+OLEAUT32.dll
+MSVCRT40.dll
+KERNEL32.DLL
+MSVCRT20.dll
+FWCWSP64.dll
+MSVCRT20.dll
+BLACKBOX.DLL
+|{m
+OLEAUT32.dll
+y{m
+v{a
+MSVCRT40.dll
+s{a
+h{i
+BLACKBOX.DLL
+e{\
+MFC42ENU.DLL
+b{w
+MSVCRT40.dll
+_{;
+KERNEL32.DLL
+T{\
+FWCWSP64.dll
+Q{1
+MFC42ENU.DLL
+N{:
+K{O
+OLEAUT32.dll
+temDrive=C:
+Syst
+DetectorException
+03O
+0kO
+B"O
+b"O
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+"C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe"
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+Winsta0\Default
+=::=::\
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+C:\Windows\SYSTEM32\ntdll.dll
+C:\Windows\System32Data=
+C:\Windows\SYSTEM32;C:\Windows\system;C:\Windows;ogr
+02O
+82O
+|:w
+X0O
+z:w
+z:wa
+H1O
+|:wP1O
+|:w
+z:w
+z:wO
+HAP
+03O
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\
+=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+C:\Windows\SYSTEM32\apphelp.dll
+(8O
+H8O
+ 7O
+H1O
+P1O
+z:w
+z:w
+p6O
+p6O
+p6O
+X@O
+C:\Windows\System32\KERNEL32.DLL
+\l#mW
+PbO
+`9O
+p6O
+8eO
+H`O
+X1O
+ z:w z:w
+`9O
+`9O
+`9O
+(6O
+|*P
+u$P
+P@O
+C:\Windows\System32\KERNELBASE.dll
+"C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe"
+0?O
+0?O
+dV_
+dV_
+0?O
+(WP
+,6]
+H8*
+P@O
+p6O
+X@O
+a9O
+npB
+@5O
+h5O
+z:w
+z:ws?
+84P
+TAP
+ApphelpDebug
+C:\Windows\Temp\AslLog_ApphelpDebug_Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe_5000.txt
+Apphelp
+shimengstate
+OC:\Windows\Temp\AslLog_shimengstate_Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe_5000.txt
+ShimDebugLog
+C:\Windows\Temp\AslLog_ShimDebugLog_Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe_5000.txt
+7eK
+ jO
+XcO
+xdO
+HdO
+(cO
+TdO
+LcO
+ldO
+4cO
+`dO
+0dO
+$dO
+@cO
+dcO
+|cO
+<dO
+pcO
+02O
+ 3P
+0@P
+0.P
+ 0P
+ ,P
+05P
+H1O
+DetectorDWM8And16Bit
+clu
+@clu0
+luH
+>gu`
+gux
+kfu
+PRfu
+jfu
+Rfu
+`\8u
+3hu
+3hu
+7hu8
+j8uP
+0i8uh
+h8u
+ D8u
+PJ8u
+ h8u
+P8u(
+@f8u@
+g8uX
+8up
+`V1w
+Xgu
+7gu
+d8u
+C8u0
+guH
+e8u`
+j8ux
+f8u
+`1hu
+:hu
+OLE32.dll
+LeO
+DetectorsTrace
+QC:\Windows\Temp\AslLog_DetectorsTrace_Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe_5000.txt
+78R
+=::=::\
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-AERI7HN
+ComSpec=C:\Windows\system32\cmd.exe
+HOMEDRIVE=C:
+HOMEPATH=\Users\Dummy
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+LOGONSERVER=\\DESKTOP-AERI7HN
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\Dummy\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+USERDOMAIN=DESKTOP-AERI7HN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+USERNAME=Dummy
+USERPROFILE=C:\Users\Dummy
+windir=C:\Windows
+__COMPAT_LAYER=DetectorsWin8
+8\P
+7HK
+dV_
+en-US
+~,w
+en-US
+en-AU
+en-CA
+en-GB
+en-HK
+en-IE
+en-NZ
+en-SG
+ar-SA
+pt-BR
+zh-TW
+zh-CN
+zh-HK
+zh-SG
+cs-CZ
+da-DK
+el-GR
+es-AR
+es-CL
+es-CO
+es-ES
+es-MX
+es-US
+fi-FI
+fr-BE
+fr-CA
+fr-CH
+fr-FR
+de-AT
+de-CH
+de-DE
+he-IL
+hu-HU
+it-IT
+ja-JP
+ko-KR
+nl-BE
+nl-NL
+nb-NO
+pl-PL
+pt-PT
+ru-RU
+sv-SE
+tr-TR
+bg-BG
+hr-HR
+et-EE
+lv-LV
+lt-LT
+ro-RO
+sr-Latn-CS
+sr-Latn-RS
+sk-SK
+sl-SI
+th-TH
+uk-UA
+fy-NL
+qps-ploc
+qps-plocm
+qps-Latn-x-sh
+52C64B7E
+T:w
+02O
+{:w
+{:w
+ADVAPI32.dll
+@.P
+z:w
+z:w
+)wp*P
+)6O
+C:\Windows\System32\ADVAPI32.dll
+nH1O
+C:\Windows\System32\msvcrt.dll
+FWCWSP.dll
+OLE32.dll
+MSVCIRT.dll
+MSVCIRT.dll
+MFC42.dll
+MFCD42D.DLL
+MFCSUBS.dll
+MFCO42D.DLL
+OLE32.dll
+FWCWSP.dll
+MFCD42D.DLL
+MFC42D.DLL
+QTIM32.DLL
+MFCN42D.DLL
+MSVCRT.dll
+MFC40.dll
+MFC42.dll
+MFCO42D.DLL
+MFC42D.DLL
+MSVCRT.dll
+MFC40.dll
+MFCN42D.DLL
+MFC42D.DLL
+MFC40.dll
+FWCWSP.dll
+MFCSUBS.dll
+MFCN42D.DLL
+MFCD42D.DLL
+MFC42.dll
+MFCSUBS.dll
+MFCO42D.DLL
+wpfredwnd_v0400.dll
+C:\Windows\SYSTEM32\apphelp.dll
+DetectorDWM8And16Bit
+clr.dll
+MFC40.dll
+MFC40.dll
+MSVCRT.dll
+OLE32.dll
+MFCN42D.DLL
+MFC42.dll
+MFCSUBS.dll
+MFCN42D.DLL
+MFC40.dll
+OLE32.dll
+MSVCIRT.dll
+MFCD42D.DLL
+MFCO42D.DLL
+OLE32.dll
+MSVCIRT.dll
+MFCD42D.DLL
+MSVCIRT.dll
+FWCWSP.dll
+MSVCRT.dll
+MFC42.dll
+MFCSUBS.dll
+MFCD42D.DLL
+MFCO42D.DLL
+MFC42D.DLL
+MFC42D.DLL
+MFC42.dll
+MFCN42D.DLL
+MFC42D.DLL
+MFCO42D.DLL
+FWCWSP.dll
+MSVCRT.dll
+MFCSUBS.dll
+FWCWSP.dll
+MFC42.dll
+MFC42D.DLL
+MSVCIRT.dll
+MSVCRT.dll
+MFCN42D.DLL
+MFCO42D.DLL
+FWCWSP.dll
+MFC40.dll
+MSVCRT.dll
+MFC42.dll
+MFCN42D.DLL
+MFC42D.DLL
+FWCWSP.dll
+MFCO42D.DLL
+OLE32.dll
+MFCSUBS.dll
+OLE32.dll
+HOMEPATH=\Users\Dummy
+PROCESSOR_LEVEL=6
+MFCD42D.DLL
+NUMBER_OF_PROCESSORS=4
+PROCESSOR_REVISION=8e09
+MFCSUBS.dll
+MFCD42D.DLL
+MSVCIRT.dll
+MFC40.dll
+MSVCRT40.dll
+OLEAUT32.dll
+FWCWSP64.dll
+FWCWSP64.dll
+MSVCRT20.dll
+MSVCRT20.dll
+BLACKBOX.DLL
+MFC42ENU.DLL
+MSVCRT20.dll
+KERNEL32.DLL
+MSVCRT20.dll
+MFC42ENU.DLL
+MFC42ENU.DLL
+BLACKBOX.DLL
+MSVCRT40.dll
+MSVCRT40.dll
+KERNEL32.DLL
+MSVCRT40.dll
+FWCWSP64.dll
+KERNEL32.DLL
+FWCWSP64.dll
+BLACKBOX.DLL
+OLEAUT32.dll
+OLEAUT32.dll
+BLACKBOX.DLL
+OLEAUT32.dll
+KERNEL32.DLL
+MFC42ENU.DLL
+COMPUTERNAME=DESKTOP-AERI7HN
+PROCESSOR_ARCHITECTURE=x86
+__COMPAT_LAYER=DetectorsWin8
+PROCESSOR_ARCHITECTURE=x86
+COMPUTERNAME=DESKTOP-AERI7HN
+ProgramData=C:\ProgramData
+FWCWSP64.dll
+H1O
+USERPROFILE=C:\Users\Dummy
+PROCESSOR_ARCHITEW6432=AMD64
+H1O
+ALLUSERSPROFILE=C:\ProgramData
+LOGONSERVER=\\DESKTOP-AERI7HN
+USERDOMAIN=DESKTOP-AERI7HN
+LOGONSERVER=\\DESKTOP-AERI7HN
+ProgramW6432=C:\Program Files
+ALLUSERSPROFILE=C:\ProgramData
+C:\Windows\SYSTEM32\apphelp.dll
+clr.dll
+clr.dll
+C:\Windows\SYSTEM32\apphelp.dll
+DetectorMessageBox
+clr.dll
+clr.dll
+C:\Windows\SYSTEM32\apphelp.dll
+DetectorShortRuntime
+7bW
+clu
+n@clu
+>gu
+n /
+kfu
+n8/
+nP?
+nPRfu
+nP/
+np>
+jfu
+nh/
+Rfu
+n`\8u
+3hu
+n 0
+3hu
+7hu
+nP&
+j8u
+n0i8u
+h8u
+n D8u
+n0'
+nPJ8u
+n00
+n h8u
+n@0
+P8u
+nX0
+n@f8u
+np0
+n0$
+g8u
+n@=
+n`V1w
+Xgu
+7gu
+d8u
+nP+
+C8u
+n$1
+e8u
+n81
+j8u
+nH1
+f8u
+n`1hu
+n\1
+:hu
+clu
+eu@clu
+>gu
+kfu
+euPRfu
+jfu
+Rfu
+8u`\8u
+3hu
+3hu
+7hu
+j8u
+8u0i8u
+h8u
+8u D8u
+8uPJ8u
+8u h8u
+P8u
+8u@f8u
+g8u
+8u0
+eu`
+eu`V1w
+eu
+Xgu
+7gu
+d8u
+C8u
+e8u
+j8u
+f8u
+eu`1hu
+:hu
+nd,
+np,
+wfu
+eu@
+eup
+eup
+eu`
+wfu
+ku
+ku8
+fuP
+guh
+wfu
+eu@
+eup
+eup
+kux
+<?xml version="1.0" encoding="utf-8"?>
+<MATCHED_ENTRIES>
+</MATCHED_ENTRIES>
+<SHIMENGSTATE PID="5000" FILENAME="C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas.microsoft.com/appcompat/2010/03/shimengstate EngineState.xsd" xmlns="urn:schemas.microsoft.com/appcompat/2010/03/shimengstate">
+  <ENV NAME="__COMPAT_LAYER" VALUE="DetectorsWin8"/>
+  <INEX MODE="EXCLUDE_SYSTEM32">
+    <INCLUDE MODULE="OLE32.dll"/>
+    <INCLUDE MODULE="OLEAUT32.dll"/>
+    <INCLUDE MODULE="MSVCRT.dll"/>
+    <INCLUDE MODULE="MSVCIRT.dll"/>
+    <INCLUDE MODULE="MSVCRT20.dll"/>
+    <INCLUDE MODULE="MSVCRT40.dll"/>
+    <INCLUDE MODULE="MFC40.dll"/>
+    <INCLUDE MODULE="MFC42.dll"/>
+    <INCLUDE MODULE="MFCSUBS.dll"/>
+    <INCLUDE MODULE="MFC42ENU.DLL"/>
+    <INCLUDE MODULE="MFCN42D.DLL"/>
+    <INCLUDE MODULE="MFCD42D.DLL"/>
+    <INCLUDE MODULE="MFCO42D.DLL"/>
+    <INCLUDE MODULE="MFC42D.DLL"/>
+    <INCLUDE MODULE="KERNEL32.DLL"/>
+    <EXCLUDE MODULE="BLACKBOX.DLL"/>
+    <EXCLUDE MODULE="FWCWSP.dll"/>
+    <EXCLUDE MODULE="FWCWSP64.dll"/>
+  </INEX>
+  <FIXES>
+    <SHIM NAME="SYSTEM">
+    </SHIM>
+    <SHIM NAME="DetectorShortRuntime">
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectW"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorMessageBox">
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxExW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="MessageBoxIndirectW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumWindows"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetWindowThreadProcessId"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="IsWindowVisible"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="clr.dll"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+    <SHIM NAME="DetectorException">
+    </SHIM>
+    <SHIM NAME="DetectorDWM8And16Bit">
+      <HOOK MODULE="USER32.DLL" FUNCTION="ChangeDisplaySettingsA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="ChangeDisplaySettingsW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="ChangeDisplaySettingsExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="ChangeDisplaySettingsExW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplayDevicesA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplayDevicesW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplaySettingsA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplaySettingsW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplaySettingsExA"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumDisplaySettingsExW"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="GetDeviceCaps"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetDC"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetDCEx"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetWindowDC"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDCA"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDCW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="ReleaseDC"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="SelectPalette"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="RealizePalette"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="GetSystemPaletteUse"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="SetSystemPaletteUse"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="GetSystemPaletteEntries"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateBitmap"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateBitmapIndirect"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateCompatibleBitmap"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDIBitmap"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDiscardableBitmap"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumThreadWindows"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="EnumChildWindows"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="DefWindowProcW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="CallWindowProcW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="SetWindowLongW"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="GetWindowLongW"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="BitBlt"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="GetPaletteEntries"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="WindowFromDC"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateCompatibleDC"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreatePalette"/>
+      <HOOK MODULE="GDI32.DLL" FUNCTION="CreateDIBSection"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="DestroyWindow"/>
+      <HOOK MODULE="USER32.DLL" FUNCTION="RedrawWindow"/>
+      <HOOK MODULE="DDRAW.DLL" FUNCTION="DirectDrawCreate"/>
+      <HOOK MODULE="DDRAW.DLL" FUNCTION="DirectDrawCreateEx"/>
+      <HOOK MODULE="D3D8.DLL" FUNCTION="Direct3DCreate8"/>
+      <HOOK MODULE="D3D9.DLL" FUNCTION="Direct3DCreate9"/>
+      <HOOK MODULE="D3D9.DLL" FUNCTION="Direct3DCreate9Ex"/>
+      <INEX MODE="EXCLUDE_SYSTEM32">
+        <INCLUDE MODULE="QTIM32.DLL"/>
+        <INCLUDE MODULE="KERNELBASE.DLL"/>
+        <INCLUDE MODULE="OLE32.dll"/>
+        <INCLUDE MODULE="OLEAUT32.dll"/>
+        <INCLUDE MODULE="MSVCRT.dll"/>
+        <INCLUDE MODULE="MSVCIRT.dll"/>
+        <INCLUDE MODULE="MSVCRT20.dll"/>
+        <INCLUDE MODULE="MSVCRT40.dll"/>
+        <INCLUDE MODULE="MFC40.dll"/>
+        <INCLUDE MODULE="MFC42.dll"/>
+        <INCLUDE MODULE="MFCSUBS.dll"/>
+        <INCLUDE MODULE="MFC42ENU.DLL"/>
+        <INCLUDE MODULE="MFCN42D.DLL"/>
+        <INCLUDE MODULE="MFCD42D.DLL"/>
+        <INCLUDE MODULE="MFCO42D.DLL"/>
+        <INCLUDE MODULE="MFC42D.DLL"/>
+        <INCLUDE MODULE="KERNEL32.DLL"/>
+        <EXCLUDE MODULE="wpfredwnd_v0400.dll"/>
+        <EXCLUDE MODULE="BLACKBOX.DLL"/>
+        <EXCLUDE MODULE="FWCWSP.dll"/>
+        <EXCLUDE MODULE="FWCWSP64.dll"/>
+      </INEX>
+    </SHIM>
+  </FIXES>
+</SHIMENGSTATE>
+{:w
+{:w
+`Fu
+bFu
+G@u
+bFu
+msvcrt.dll
+U>u
+l@P
+Xz:w
+)wx<P
+K/g
+`)P
+{:w
+C:\Windows\SYSTEM32\sechost.dll
+xz:wxz:wZV
+(6O
+pFP
+C:\Windows\System32\sechost.dll
+~,w
+~,w
+XGP
+H1O
+H1O
+{:w
+RPCRT4.dll
+z:w
+z:wRE
+q*P
+ComSpec=C:\Windows\system32\cmd.exe
+ kO
+C:\Windows\System32\RPCRT4.dll
+C:\Windows\System32\SspiCli.dll
+C:\Windows\System32\GDI32.dll
+C:\Windows\System32\USER32.dll
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+0EP
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+C:\Windows\SYSTEM32\dbghelp.dll
+C:\Windows\System32\WS2_32.dll
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+XDP
+C:\Windows\System32\IMM32.DLL
+C:\Windows\SYSTEM32\CLUSAPI.dll
+C:\Windows\SYSTEM32\bcrypt.dll
+C:\Windows\SYSTEM32\DNSAPI.dll
+C:\Windows\System32\win32u.dll
+H1O
+ kO
+0!P
+(FP
+0!P
+0!P
+{:w
+SspiCli.dll
+z:w
+z:w
+APPDATA=C:\Users\Dummy\AppData\Roaming
+0/P
+ kO
+Odll
+z:w
+z:w
+84P
+C:\Windows\System32\CRYPTBASE.dll
+`)P
+{:w
+H"P
+0&w
+0&w
+0&w
+bcryptPrimitives.dll
+!w@
+P(*
+pz:wpz:w
+t$P
+C:\Windows\System32\bcryptPrimitives.dll
+?`\
+ kO
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+T$P
+t0P
+(FP
+t,P
+t,P
+ FP
+t3P
+t3P
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+$4P
+$4P
+PEP
+hFP
+@FP
+d<P
+d<P
+H1O
+T:P
+T:P
+LOCALAPPDATA=C:\Users\Dummy\AppData\Local
+4AP
+4AP
+ProgramFiles(x86)=C:\Program Files (x86)
+02O
+pBP
+{:w
+8u(
+GDI32.dll
+i8u
+z:w
+z:wuU
+\*P
+x<P
+$9O
+~,w
+~,w
+H1O
+H1O
+~,w
+~,w
+{:w
+~Bv(
+C:\Windows\SYSTEM32\gdi32full.dll
+ ,P
+(,P
+00P
+7v@
+\,P
+z:w
+t0P
+T$P
+)w
+$9O
+C:\Windows\System32\gdi32full.dll
+01P
+0.P
+0.P
+H1O
+H1O
+ 0P
+05P
+ ,P
+{:w
+{:w
+ -P
+msvcp_win.dll
+0.P
+8.P
+@5P
+@.P
+l5P
+D*P
+C:\Windows\System32\msvcp_win.dll
+01P
+PBP
+0.P
+0.P
+H1O
+ ,P
+0.P
+{:w
+{:w
+0/P
+C:\Windows\SYSTEM32\ucrtbase.dll
+ 0P
+ ,P
+(0P
+(,P
+0,P
+z:w
+z:w
+0!P
+0!P
+0!P
+x<P
+t:P
+$9O
+C:\Windows\System32\ucrtbase.dll
+PBP
+H1O
+ 0P
+{:w
+{:w
+01P
+,hu
+USER32.dll
+05P
+0.P
+85P
+8.P
+@5P
+<:P
+z:wD
+\*P
+S:w
+uTA
+ ,P
+ kO
+xDP
+ -P
+H1O
+$2P
+ 0P
+05P
+{:w
+{:w
+ kO
+win32u.dll
+ kO
+d2P
+@@P
+ <P
+8z:w8z:wp
+i:P
+46O
+ 3P
+(3P
+es0
+z:w
+z:ws
+h!P
+h!P
+h!P
+)wh:P
+0@P
+8@P
+G4u
+z:w
+P P
+P P
+P P
+ 0P
+(0P
+00P
+0,P
+z:w\,P
+05P
+85P
+rPr
+z:w\0P
+84P
+03P
+z:w
+z:w
+h$P
+E4P
+O8O8O
+|:w
+|:w
+03P
+Xz:w
+c]y
+|:w@@P
+Hz:wHz:w
+ 3P
+(3P
+ <P
+z:wL3
+q*P
+D4P
+u$P
+>x;6
+ -P
+0/P
+02O
+{:w
+{:w
+dbghelp.dll
+,CP
+02O
+{:w
+{:w
+0^P
+CLUSAPI.dll
+?`p
+0^P
+U0{)
+lCP
+:{g
+SystemDrive=C:
+7{o
+8FP
+4{B
+Pes\R
+1{s
+Pe.La
+.{n
+Psolw
++{e
+Pnu\d
+({h
+Pll
+%{K
+Osers
+"{u
+OS=Windows_NT
+XDP
+XDP
+pDP
+HEP
+Pe.La
+Psomw
+Pnu\d
+Pll
+pFP
+USERNAME=Dummy
+0EP
+0EP
+Pdll
+h!P
+PEP
+~{B
+HOMEDRIVE=C:
+{{s
+USERNAME=Dummy
+x{n
+Psomw
+u{e
+PNsi
+r{S
+SystemDrive=C:
+l{G
+i{r
+OS=Windows_NT
+f{\
+ FP
+P P
+c{U
+@FP
+`{A
+HOMEDRIVE=C:
+]{l
+hFP
+Z{y
+PPyth
+W{3!
+Pipts
+T{C"
+Prs\D
+Q{m#
+PData
+N{o$
+Progr
+K{s%
+Pon\P
+H{h&
+P;C:\
+E{e'
+(GP
+(GP
+Pmmy\
+B{p(
+@GP
+@GP
+PLoca
+S:w
+"Jn
+"Jn
+FAn
+7TW
+0IP
+4IP
+0IP
+PC:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu;C:\Windows\SYSTEM32;C:\Windows\system;C:\Windows;.;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+q5H
+9\P
+\??\C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\oldname
+\??\C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\oldname
+0DO
+`[P
+(WP
+"12$
+\??\C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\oldname
+\??\C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\oldname
+x?O
+*RIZ
+aWB
+`$es@0fs
+a%w
+(WP
+h8H$
+0fs
+@QP
+qN@U
+ kO
+OI.dll
+C:\Windows\System32\NSI.dll
+paAu
+YIn
+'Q@
+a%w
+#&w
+Pta
+APPDATA=C:\Users\Dummy\AppData\Roaming
+CommonProgramFiles
+73A
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+:{E
+C:\ProgramDa
+PUBLIC=C:\Users\Public
+2{s
+HOMEPATH=\Users\Dummy
+.{R
+PROCESSOR_REVISION=8e09
+*{o
+ramFiles=C:\
+&{o
+ram Files (x
+"{)
+Common Files
+DDRAW.DLL
+SESSIONNAME=Console
+on Files
+Com
+rogramW6432=
+rogram Files
+mon Files
+SystemRoot=C:\Windows
+~{-
+SESSIONNAME=Console
+z{=
+:\Windows\sy
+v{e
+r{E
+NUMBER_OF_PROCESSORS=4
+n{T
+=\Users\Dumm
+j{L
+PUBLIC=C:\Users\Public
+f{U
+(An
+b{a
+a\Local
+LOGO
+^{E
+windir=C:\Windows
+Z{A
+SystemRoot=C:\Windows
+V{F
+"An
+R{n
+N{\
+ummy\OneDriv
+J{O
+PROCESSOR_LEVEL=6
+F{t
+=C:\Windows\
+B{s
+em32;C:\Wind
+windir=C:\Windows
+{t
+m32\Wbem;C:\
+{n!
+ows\System32
+{i"
+dowsPowerShe
+{\#
+1.0\;C:\User
+{D$
+mmy\Desktop\
+{s%
+nterals\Proc
+{m&
+;C:\Users\Du
+{y'
+Desktop\sysi
+{e(
+als\Strings;
+{\)
+sers\Dummy\D
+{k*
+op\sysintera
+{\+
+rocessMonito
+{C,
+\Users\Dummy
+{p-
+Data\Roaming
+{i.
+rosoft\Windo
+{\/
+tart Menu\Pr
+{r0
+ms\Python 3.
+{C1
+\Program Fil
+{\2
+it\cmd;C:\Pr
+{r3
+m Files\node
+{\4
+C:\Users\Dum
+{\5
+ppData\Local
+{r6
+grams\Python
+{y7
+hon37\Script
+{;8
+:\Users\Dumm
+{A9
+pData\Local\
+{o:
+rams\Python\
+{t;
+on37\;C:\Use
+{\<
+ummy\AppData
+{o=
+al\Microsoft\WindowsApps
+(uP
+6fs
+XGP
+P2.dll
+         (((((                  H
+h:w
+h:w/
+PIMM32.DLL
+Win8
+PFP
+@DP
+(#P
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+OneDrive=C:\Users\Dummy\OneDrive
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+?`[
+OneDrive=C:\Users\Dummy\OneDrive
+TMP=C:\Users\Dummy\AppData\Local\Temp
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+TMP=C:\Users\Dummy\AppData\Local\Temp
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles=C:\Program Files (x86)
+ComSpec=C:\Windows\system32\cmd.exe
+TEMP=C:\Users\Dummy\AppData\Local\Temp
+APPDATA=C:\Users\Dummy\AppData\Roaming
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+;{C
+9{L
+7{A
+5{_
+3{=
+1{M
+(uH
+%{T
+#{C
+!{L
+         (((((                  H
+         (((((                  H
+8{=
+:{D
+0{'
+({,
+&{`
+~{0
+|{
+z{@
+x{0!
+j{0(
+h{p)
+f{@*
+`{P-
+\{0/
+V{ 2
+T{`3
+J{`8
+F{p:
+D{@;
+B{0<
+zDv
+zDv
+8{=
+:{0
+6{
+4{p
+2{@
+&{
+ {`
+x{ !
+v{p"
+p{p%
+n{ &
+j{p(
+f{0*
+`{0-
+^{p.
+Z{@0
+T{03
+N{P6
+8{=
+8{=
+8{=
+;{D
+ta\Local\Temp
+\l#mW
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+q5H
+q5H
+CommonProgramW6432=C:\Program Files\Common Files
+O8O8O
+`EP
+xEP
+ kO
+C:\Windows\SYSTEM32\IPHLPAPI.DLL
+PRAn
+7i>
+
+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+:{E
+C:\ProgramData
+APPDATA=C
+3{U
+ers\Dummy\AppData\Roamin
+,{C
+mmonProgramFiles=C:\Prog
+%{m
+Files (x86)\Common Files
+monProgramFiles(x86)=C:\
+ram Files (x86)\Common F
+CommonProgramW6432=C:\P
+am Files\Common Files
+ERNAME=DESKTOP-AERI7HN
+{{S
+ec=C:\Windows\system32\c
+t{.
+ProgramFiles(x86)=C:\Program Files (x86)
+m{U
+ers\Dummy
+LOCALAPPDATA=C
+f{U
+ers\Dummy\AppData\Local
+_{G
+NSERVER=\\DESKTOP-AERI7H
+X{N
+MBER_OF_PROCESSORS=4
+One
+Q{i
+e=C:\Users\Dummy\OneDriv
+J{O
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-AERI7HN
+C{s
+system32;C:\Windows;C:\W
+ws\System32\Wbem;C:\Wind
+System32\WindowsPowerShe
+1.0\;C:\Users\Dummy\Desk
+sysinterals\Procdump;C:\
+s\Dummy\Desktop\sysinter
+Strings;C:\Users\Dummy\D
+op\sysinterals\ProcessMo
+r;C:\Users\Dummy\AppData
+ming\Microsoft\Windows\S
+ Menu\Programs\Python 3.
+\Program Files\Git\cmd;C
+ogram Files\nodejs\;C:\U
+\Dummy\AppData\Local\Pro
+s\Python\Python37\Script
+{;
+:\Users\Dummy\AppData\Lo
+{l!
+Programs\Python\Python37
+{C"
+\Users\Dummy\AppData\Local\Microsoft\WindowsApps
+?`Q
+0{)
+:{a
+7{T
+4{E
+1{D
+.{.
++{F
+({P
+%{C
+"{8
+3VV
+~{0
+{{t
+3Vm
+x{m
+u{m
+r{o
+o{(
+l{m
+i{C
+f{i
+c{r
+`{C
+]{i
+Z{e
+W{g!
+T{i"
+Q{h#
+N{;$
+K{s%
+H{d&
+E{l'
+B{l(
+0{)
+:{M
+7{y
+4{:
+1{=
+.{T
++{s
+({a
+%{m
+"{e
+~{i
+{{s
+x{A
+u{r
+o{I
+l{T
+i{a
+f{i
+c{8
+`{r
+]{r
+Z{i
+W{C!
+T{F"
+Q{O#
+N{n$
+K{O%
+H{e&
+E{:'
+B{c(
+0{)
+7{0
+({p
+x{p
+r{
+f{`
+c{p
+W{`!
+T{p"
+K{@%
+B{ (
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Dummy\Desktop\sysinterals\Procdump;C:\Users\Dummy\Desktop\sysinterals\Strings;C:\Users\Dummy\Desktop\sysinterals\ProcessMonitor;C:\Users\Dummy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Dummy\AppData\Local\Programs\Python\Python37\;C:\Users\Dummy\AppData\Local\Microsoft\WindowsApps;C:\Users\Dummy\AppData\Roaming\npm
+ProgramData=C:\ProgramData
+USERDOMAIN=DESKTOP-AERI7HN
+PROCESSOR_ARCHITEW6432=AMD64
+ProgramW6432=C:\Program Files
+USERPROFILE=C:\Users\Dummy
+__COMPAT_LAYER=DetectorsWin8
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+`{8
+O8O8O
+6{{
+6r{
+6i{
+6`{
+6W{
+6N{
+6E{
+;6>z
+B65z
+U6,z
+\6#z
+7vz
+7mz
+7dz
+7[z
+7Rz
+7Iz
+7@z
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+@GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+(GP
+?`Q
+1{)
+F7:{
+C77{
+L74{
+I71{
+J7.{
+W7+{
+P7({
+]7%{
+^7"{
+`[7
+[a7
+`b7
+'|7
+z7~{
+4{{
+4x{
+4u{
+4r{
+4o{
+4l{
+4i{
+4f{
+4c{
+4`{
+4]{
+4Z{
+4W{
+4T{
+4Q{
+4N{
+4K{
+4H{
+4E{
+4B{
+1{)
+4:{
+47{0
+44{
+41{
+4.{
+4+{
+4({p
+4%{
+4"{
+4~{
+4{{
+4x{p
+4u{
+4r{
+4o{
+4l{
+4i{
+4f{`
+4c{p
+4`{
+$4]{
+!4Z{
+"4W{`!
+[/4T{p"
+(4Q{
+`54N{
+64K{@%
+`34H{
+j*f
+j<4E{
+94B{ (
+Psers\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+XGP
+Q\Device\HarddiskVolume4\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+~--w
+~--w
+0wG*/w
+;0w^
+Q\Device\HarddiskVolume4\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.2013 .exe
+8(Q
+%01{)
+S2:{
+\27{
+A)Y24{
+A)Z21{
+g2.{
+`2+{
+m2({
+n2%{
+k2"{
+dmB
+3~{
+3{{
+3x{
+3u{
+@2"
+3r{
+3o{
+3l{
+3i{
+3f{
+3c{
+3`{
+3]{
+3Z{
+I&Z@
+3W{
+newname
+3T{
+newname
+3Q{
+3N{
+I&Z@
+3K{
+I&Z@
+3H{
+3E{
+oldname
+3B{
+newname
+8(Q
+`'Q
+x'Q
+p)Q
+H'Q
+h(Q
+ (Q
+0'Q
+P(Q
+()Q
+@)Q
+X)Q
+H*Q
+0*Q
+DetectorShims,Fired,8003,0
+O8O8O
+hu
+Ygu Zgu
+fu0
+fuP
+lu@0fu
+sfu
+gu@
+fu`
+gu0
+fu@
+lu
+gu0
+gup
+(5u0(5u
+'5u
+'5u0$5u
+#5u
+%5up$5u
+&5u0&5u@'4u
+4u@
+4u`
+(4uP/4uPD4upE4u`G4u
+P4u
+4u`
+4u@
+4uP
+/4up:4u`L4u
+4u@
+-4u
+4u`
+)4u
+4u`
+E4u
+A4u
+&4u
+)4u
+*4u
+R4u`
+w5u
+4up
+"4u
+Q4u
+5uP~5u
+L4u@L4up
+|5u
+V1w
+(Oeu8Oeu
+V1w
+@OeuTOeu
+W1w
+`OeutOeu
+ W1w
+@W1w
+Oeu
+Oeu
+`W1w
+Oeu
+Oeu
+W1w
+Oeu
+Oeu
+W1w
+5eu
+Oeu
+W1w
+Oeu
+Oeu
+Oeu
+Oeu
+ju4
+Peu(Peu
+ju4
+8Peu`Peu
+tPeu
+Peu
+Peu
+Peu
+W1w
+Peu
+Peu
+Ahu Ahu0 gu
+1Qeu
+,fu`
+,fu
+fu
+ku@
+ku`
+ku0
+Dhu
+Ahu
+DhupDhu`DhuPDhu"
+USER32
+windows.hlp
+vpF
+0W1w@W1w
+W1w
+BUhu
+Uhu
+UhucUhu
+Phu
+Phu
+PhuoPhu_PhuOPhu
+Phu.Phu
+Rhu7Rhu
+bhu
+chu%chu5chuEchuUchuechuuchu
+chu
+chu
+exp
+0w=
+0wB
+0w1
+a)w
+c)w
+h)w
+h)w
+h)w
+h)w
+h)w
+R:w
+a)wXf)w
+g)w
+atan2
+0wo
+0wo
+0wm
+0wm
+0wm
+0wo
+i)w
+i)w
+i)w
+i)w
+i)w
+i)w!
+i)w
+i)w
+i)w
+i)w
+i)w
+i)w
+i)w
+i)w
+i)w
+i)w
+i)w
+j)w
+i)w
+j)w
+j)w
+j)w
+ j)w
+(j)w"
+0j)w#
+4j)w$
+8j)w%
+<j)w&
+Dj)wpj)wrj)wrj)wrj)wrj)wrj)wrj)wrj)wrj)wrj)w
+tj)wxj)wxj)wxj)wxj)wxj)wxj)wxj)w
+e:w
+V:w
+V:w
+)w@
+g:w
+h:w
+S:w
+S:w
+T:w
+T:w
+T:w
+T:w
+~)w8})w
+z)w
+|)w
+|)w
+-)8|)w
+37w
+{)w
+vlg
+(/J
+SAD
+JJn8
+X{)w
+z)w
+z)w
+lz)w
+y)w
+vlg
+y)w
+(y)w
+(/J
+SAD
+JJn8
+f+E
+wH4
+x)w
+x)w
+S:w
+S:w
+ f:w
+)w
+LV)w8W:w8W:w
+DW:wDW:w
+*wTW:wTW:w
+cos
+log
+?pow
+sin
+sqrt
+atan
+tan
+ZA`a
+"&:
+BC;
+c)Xx
+/R7@
+ne~
+L-W
+5^kn
+Qki
+s}Aa
+s"@X
+c F
+T$'
+-6w
+hncb
+_.P
+U5J
+v/9Hx
+iQFM
+?B,
+`.>`9
+Bf"D
+j\I}
+8i/
+Wg7"
+eQI
+!MRMn
+uSs
+b]!Om
+l{*1R
+V2^ze#D
+P YY)rw
+u%t
+Ftzj
+]vz+
+Q|EO
+XTE0
+ HX
+P>i`px
+CSv_zMY
+`KwV8
+xKlqz
+z-jf\
+D^yB3
+K>]xut.EaR
+Mh#zl>^
+7C$xr
+vk-
+%b8
+eh-K4
+)c1w
+g:w
+f:w
+h:w
+S:w
+(h:w
+g:w
+hh:w
+h:w
+h:w(h:w
+h:whh:w
+S:w
+h:w
+02O
+\0P
+<:P
+<$P
+<$P
+(z:w(z:w0z:w0z:w\3P
+\3P
+@z:w@z:w
+Pz:wPz:w
+l@P
+`z:w`z:whz:whz:wt
+D*P
+l5P
+z:w
+z:w
+z:w
+z:w
+z:w
+z:wl.P
+l.P
+z:w
+z:wL<P
+L<P
+z:w
+z:w
+l2O
+l2O
+{:w
+@{:w@{:wx
+{:w
+{:w
+TA(
+D@(
+nH1O
+02O
+0@P
+82O
+8@P
+X1O
+0kO
+@kO
+fxO
+xsO
+,wO
+ZwO
+DyO
+hyO
+~kO
+NmO
+xsO
+fxO
+0nO
+lnO
+JuO
+ZwO
+NmO
+0nO
+hyO
+@kO
+~kO
+:lO
+JuO
+lnO
+dtO
+_B*
+@41w
+Obb
+@a1w
+@a1w
+@a1w
+@a1w
+@a1w
+Zgu
+Zgu
+Zgu
+Zgu
+ .ju
+:ku
+P;ku
+0Kfu
+Zgu
+@*gu
+`Lgu
+[gu
+[gu
+[gu
+[gu
+.ju
+@gu
+[gu
+*gu
+`Lgu
+`/ju
+`Kfu
+ Agu
+Hgu
+,:C
+p1s
+8BO
+A0w
+0@0w
+ A0w
+`B0w
+`"4w
+IC)+
+:$,
+S#,
+q1=
+7n4,
+W14
+ZFL
+F4u
+S4u
+C4u
+B4uPB4u0D4u
+A4uhADb
+6V4u
+V4u
+V4u
+V4u
+V4u|V4u
+U4u
+V4u
+V4u
+V4u"V4u,V4u
+V4u@V4uJV4uTV4u^V4uhV4urV4u
+]4u$]4u.]4u8]4u
+[4u
+]4un[4u
+[4u
+[4u
+[4uB]4u
+[4u
+[4u
+[4u
+[4u
+[4u
+\4u
+\4u&\4u6\4uF\4uV\4uf\4uv\4u
+\4u
+\4u
+\4u
+\4u
+\4u
+\4u
+\4u
+\4u
+\4u
+\4u
+\4u
+]4u
+U4u
+U4u
+U4u
+U4u
+wL<
+@.w
+t0w4
+~-wL
+ 3.w
+8y-w(
+y-w
+Ut-w
+t-w
+,w<
+O)w<
+,w
+,w&
+C:\Windows\SysWOW64
+p-w
+;q-w
+/-w
+-wH
+lCP
+d-wlCP
+PCP
+O)w
+,w&
+C:\Windows\SysWOW64
+$^P
+ z:w
+:w$^P
+,Q/w
+,wPBP
+,wH
+PBP
+$^P
+`9O
+_G-w|
+H-w
+C:\Windows
+PCP
+,w0
+j.-w
+ z:w
+:w,
+,Q/w
+~--w
+S1w
+,wJ
+`EP
+h!P
+`9O
+.dll
+.dll
+PCP
+C:\Windows\SYSTEM32\kernelbase.dll
+`{:wPBP
+.wx
+PBP
+PBP
+PBP
+PBP
+hPBP
+0w:Q.w
+pi-ms-win-core-processthreads-l1-1-0
+{:w
+0aP
+U1w
+L0aP
+uf+w
+U/wH1O
+H1O
+-wl"0w
+0wl
+{:w0aP
+up^
+,wF
+<@7u|
+0aP
+`{:w
+{:w
+0wT
+(%P
+90w
+,w(
+0w\
+}X/w(
+MX/w
+)c1w
+,w(
+L#0wqt+w
+t+w
+X4w
+7Y4w
+hY4w
+_Lx^
+X4w
+$0w
+V4w
+0w/[4w
+W4w
+&W4wB
+J4wt
+<J4w
+#0ws+
+PSSD
+u`_
+-wp
+:wp2@
+J3w
+"c0w
+/\0w
+9wG
+0wD
+:w@>0wxd
+a1wxd
+a1w
+a1wxd
+0/wxd
+u3s
+#++S++
+ZFL
+F1s
+>_L
+A0w
+A0wxd
+ZFL
+3_L
+uyV.w
+3_L
+3_L
+u|i
+GetConsoleAliasExesLengthW
+LoadLibraryA
+02O
+PAG
+SVW
+$QY
+4Mu
+|Q@
+ _^[
+B!3
+@&w
+@.w
+@&w
+yV.w|
+~;4
+ur7
+yV.wU
+i<@
+Bad file descriptorfile
+H-w@
+_G-w
+t0w<
+~-wT
+ 3.w
+8y-w0
+y-w
+@&w|
+Ut-w
+t-w
+,wD
+O)wD
+,w(
+,w&
+C:\Windows\SysWOW64
+p-w
+;q-w
+..w
+@&w
+ kO
+,wt
+LX5
+p"P
+ z:w
+p"P
+,Q/w
+1&w(
+,wB
+p"P
+`9O
+ 3.w
+8y-w
+y-w
+*-w
+@+-wk
+el:<
+O)w
+,w&
+C:\Windows\S
+t0wt
+~-w
+-cor
+8y-wh
+y-w:
+_L<
+Ut-w
+t-w
+,w|
+O)w
+,w`
+,w&
+dows\SysWOH
+_LH
+.w\
+<!0w
+~--w
+l+w
+lK.w0
+??\C:\Windows\system32\IMM32.
+ 0P
+|5u
+n`&
+|5u
+|5u
+ 0P
+J4u
+G4u&
+,w`
+Y,w
+-w~
+J4u
+G4u
+Y,w
+O)wp
+O)w
+@.w
+ysWOW64
+ws\SysWOW64
+ws\SysWOW64
+:eu
+|5u
+:eu{
+guT
+p-w|
+C:\Windows
+tem3
+D*P
+ A6
+D*P
+t0w
+~-w
+,w4
+O)w
+,w&
+C:\Windows\SysWOW64
+8y-wx
+y-w
+Ut-w
+t-w,
+n`&
+In(
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ &   !
+0 `
+9 R
+ "
+"!`
+: R
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ &   !
+0 `
+9 R
+ "
+"!a
+: S
+Int
+t0w
+~-w
+_L4
+8y-w
+y-w(
+ ,/
+ ,/
+ ,/
+L-w
+(,/
+_G-w
+p-w
+;q-w
+03O
+\-w
+j.-w
+~--w
+~--w
+*-w
+`*Q
+@+-w
+C:\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.
+yV.wt
+snu\R
+yV.wx
+yV.w
+`*Q
+0wT
+j.-w
+x*Q
+~--w
+~--w
+`*Q
+H*Q
+x*Q
+x*Q
+-w^
+yV.wp
+0wr
+Ya@
+pmy
+p2@
+VWXYZ[\]^_`abcdefghijklmno
+oldname
+newn
+Ya@
+e"@
+["@
+p2@
+Y*8L
+Pf@
+_G-w
+_L@
+0123*
+<=>?@ABC
+LM*
+\]^_
+DEFG
+/-w@
+WD@
+~--w
+0w'
+\Device\HarddiskVolume4\Users\Dummy\Desktop\TheZoo\theZoo\malwares\Binaries\Ransomware.Matsnu\Ransomware.Matsnu\Matsnu-MBRwipingRansomware_1B2D2A4B97C7C2727D571BBF9376F54F_Inkasso Rechnung vom 27.05.201
+0wG*/w
+yV.w
+b"O
+B"O
+p2@
+}X/w
+MX/w
+)c1w
+w!?
+w+?
+w5?
+w??
+wI?
+wS?
+w]?
+wg?
+wq?
+w{?
+w:A
+ws@
+w}@
+w_@
+wU@
+wK@
+w0@
+w{C
+wqC
+w!C
+w+C
+w5C
+w?C
+wIC
+wSC
+w]C
+wgC
+w"D
+wrD
+whD
+w^D
+wTD
+wJD
+w@D
+w,D
+w}B
+wCE
+w9E
+w/E
+wME
+w7B
+wUB
+wKB
+wAB
+wiB
+wsB
+w-B
+w#B
+ApphelpDebug
+shimengstate
+ShimDebugLog
+C:\Windows\Explorer.EXE
+ApplicationMonitor DetectorsWin8
+  Bv
+Avp
+?v`
+@vP$@v
+{Av`
+Gv@
+"Bv
+{8u
+{8uF{8u
+XBv
+nBv@
+(Av
+sBv
+!Av0
+,Bv`'Bv
+}Bv0'Bv
+OBv
+l8u&m8unn8u
+l8u
+j?v0.?v`
+?v05Bv`
+TBv
+MBv
+gBv
+,Bv0
+Y?v
+w?v@(Bv
+QBv
+IBv
+n?v
+G?v
+}Bv0rBv
+rBv`BBv
+JBv
+}Bv`
+q8u6q8u
+q8u
+p8u
+p8u
+p8uVp8u6p8u
+s8u
+s8u
+p8u
+o8u
+o8u
+o8uvo8uJs8uTs8u^s8uhs8u
+n8u
+o8u
+q8u
+w8u
+t8u6t8uVt8uvt8u
+t8u
+t8u
+t8u
+t8u
+u8u
+s8u
+v8uvu8u
+u8u
+v8u
+v8u
+u8u
+v8u
+v8u
+v8u
+v8u
+v8u
+v8u
+u8u
+u8uVu8u
+v8u
+w8u
+s8u
+w8u&w8u0w8urs8u
+s8u6u8u
+MEv
+?vP
+Av0
+Dv`HEv06BvpxDv
+{Av
+{Av REvp2Bv
+Dv`M?v
+CEv@x?v
+AEv
+<Bv
+}Dv
+<Ev
+QEv
+Dv@pBv tDv
+TEvpt?v
+(BvPuDvpREv
+Dv@
+Dvp
+;EvP
+=Ev
+Bv
+BvP
+Bv`
+Bvp
+>Ev
+Dv@
+Dvp
+Dv0
+(Ev0)EvP
+Bv`
+Dv0}Dv
+FBv
+}Dv
+}Dv
+~Dv
+pBv
+~Dv
+IBv`
+Dvp
+Bv
+qBv@~Bv0~Bv@~Bv@~Bv@~Bv
+|Dv
+{Dv
+{Dv@~Bv
+qBv0|Dv
+|Dv
+|Dv@~Bv@~Bv
+|Dv@~Bv
+Dv@~Bv@~Bv@~Bv
+|Dv@~Bv@~Bv0~Bv@~Bv@~Bv@~Bv@~Bv@~Bv@~Bv0~Bv
+|Dv@~Bv
+|Dv@~Bv@~Bv
+|Dv@~Bv@~Bv@~Bv@~Bv0~Bv
+|Dv0~Bv0~Bv |Dv@~Bv@~Bv0~Bv@~Bv
+{Dv
+|Dv0~Bv0~Bv@~Bv
+Bv0
+VEv
+?Ev
+@Ev
+iDv
+BEv0
+Ev`
+Bvp
+Bv
+Bv0
+Bv0
+Ev@
+BvP
+Bv`
+Bvp
+Ev@
+Evp
+Bvp
+Bv@~Bv
+EvP
+Bv
+Bv`
+Ev0
+Bvp
+HBv
+XEvPYEv
+@Bv0BEv
+Bv
+Bv0
+Bv@
+BvP
+Bv`
+Bvp
+Bv0|Dv
+REv
+CEv
+Bv`:Fv@|Dv
+DEvP
+}Bv`
+}Bv
+}Bv
+}Bv`
+}Bv
+}Bv
+}Dv
+bEvpVEvp
+cEvPdEv@~Bv
+yDv zDv0~Bv0~Bv ~Bv0zDv
+zDv
+zDv
+{Dv0{Dv@~Bv@~Bv
+|DvP{Dv`
+DEv`
+eEv0fEv
+}Bv
+}Bv
+}Bv
+fEv0gEv
+hEv
+Bv ?Fvp
+Bv0yBvp|Dvp
+?v`$Bv
+!Bv@
+qBv
+iEv
+kEv
+nEv
+{Dv
+Ev@uBv`
+|Dv
+)Av
+}Dv
+nEv
+}Dv
+;Bv
+VEv zDv`oEv
+pEv
+VEv
+}Bv
+Bv JBvP=Bv
+lDv
+DvP
++Bv
+lDv
+lDv
+mDv0mDv`mDv
+mDv
+mDv nDvPnDv
+nDv
+qDv rDv0P?v@rDv
+Ev@
+YEv
+ZEv
+EvPZEv
+Ev0
+Bv`rDv uDv
+%Ev
+>?v0
+GBvp#Bv
+Bv0SEv
+d?vpH?v
+H?vpZEv@
+IBv
+Bv@xDv`_AvP
+*Av
+Bv0
+Bvp
+!Ev
+EEv
+FEv
+Dvp
+GEv0
+Avp
+DvpJEv
+MEv
+DvpIBv
+Dvp
+DvP
+Bv
+Bv0
+Bv@
+BvP
+Bvp
+Bvp
+}Dv
+}Dv
+?Bv@
+#Bv
+Dvp
+I?v
+EvP
+Dv
+@Bv
+Dv DBv
+!Ev
+Dvpq?v
+EvPQEv
+SEv@
+Ev0UEv
+Dv0
+Dv0
+Bv0jDv
+Dv !Bv
+5BvpYBv
+Dvp1?v
+$Bv
+ Bv
+?vp
+?v@
+Av0
+)BvP
+z@v
+Av@
+Av0
+#Bv
+3Bv
+Bv0
+Dv`iBv
+ ?v
+mBv
+lBv
+fBv
+Avp
+?vP3?v
+?vpQEv
+y8u
+y8u
+x8u
+w8u
+x8u
+x8u
+w8u
+x8u
+x8u
+x8u
+y8u
+w8u
+w8ufw8u2y8u(y8u
+y8u:w8u
+x8u
+<y8u
+y8u
+y8u
+y8u
+z8u6z8uVz8uvz8u
+z8u
+z8u
+z8u
+z8u
+{8u
+Event
+WaitCompletionPacket
+IoCompletion
+TpWorkerFactory
+IRTimer
+WaitCompletionPacket
+IRTimer
+WaitCompletionPacket
+Directory
+\KnownDlls
+Directory
+\KnownDlls32
+Event
+Event
+File
+Event
+WaitCompletionPacket
+IoCompletion
+TpWorkerFactory
+IRTimer
+WaitCompletionPacket
+IRTimer
+WaitCompletionPacket
+Directory
+\KnownDlls32
+Event
+Event
+File
+ALPC Port
+Key
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\Control\Session Manager
+Directory
+\Sessions\1\BaseNamedObjects
+Key
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\Control\Nls\CustomLocale
+IoCompletion
+TpWorkerFactory
+IRTimer
+WaitCompletionPacket
+IRTimer
+WaitCompletionPacket
+Key
+\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+Key
+\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DllNXOptions
+Key
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\Control\Nls\Sorting\Versions
+File
+Semaphore
+Semaphore
+Event
+IoCompletion
+WindowStation
+\Sessions\1\Windows\WindowStations\WinSta0
+Desktop
+\Default
+WindowStation
+\Sessions\1\Windows\WindowStations\WinSta0
+Key
+\REGISTRY\MACHINE
+Semaphore
+Semaphore
+Event
+File
+Event
+File
+Event
+Event
+Event
+Event
+Section
+Process
+Thread
+Process
+@1s
+P1s
+`1s
+p1s
+05s
+p6s
+ >s
+0>s
+@>s
+P>s
+0?s
+0fs
+@fs
+P6u
+07u
+@7u
+p7u
+ Fu
+`Fu
+PJv
+p w
+ &w
+0&w
+p&w
+P:w
