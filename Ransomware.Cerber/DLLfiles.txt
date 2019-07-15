@@ -1,0 +1,17 @@
+ntdll.dll
+advapi32.dll
+crypt32.dll
+gdi32.dll
+gdiplus.dll
+kernel32.dll
+mpr.dll
+netapi32.dll
+ole32.dll
+oleaut32.dll
+powrprof.dll
+shell32.dll
+shlwapi.dll
+urlmon.dll
+user32.dll
+version.dll
+ws2_32.dll
